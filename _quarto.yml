@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Toets2daagse"
+  # favicon: images/boom-klein.png
+  repo-url: https://github.com/SIG-DT/Toets2daagse
+  repo-actions: [edit, issue]
+  page-navigation: true
+  navbar: 
+    left:
+      - text: Jaargang
+        menu:
+          - sidebar:t2d2022
+      - about.qmd
+      
+  sidebar:
+    - id: t2d2022
+      # logo: images/boom.svg
+      title: "T2D 2022"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - 2022/index22.qmd
+
+format:
+  html:
+    theme: lumen-progtoets.scss
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    # bibliography: references.bib

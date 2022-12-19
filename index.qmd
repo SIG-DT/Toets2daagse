@@ -1,0 +1,238 @@
+---
+format: 
+  html:
+    page-layout: full
+---
+
+::: {.column-page}
+
+::: {.grid .header .text-white}
+
+::: {.g-col-12 .g-col-md-9}
+
+Toets2daagse
+
+:::
+
+::: {.g-col-12 .g-col-md-3}
+
+<!-- ![](images/){.boom} -->
+
+:::
+
+:::
+<!-- end title -->
+
+
+<!-- ![](images/Leeromgeving.png) -->
+
+::: {.lead}
+
+Welkom op de website van de Toets2daagse.
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## 2022 {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Dag 1 {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Dag 2 {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Organisatie {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## SIG {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+
+::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Iets {.card-title}
+
+::: {.card-text}
+
+* [Inleiding](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- remarks -->
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Kop 1 {.card-title}
+
+::: {.card-text}
+
+Lorum ipsum
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Kop 2 {.card-title}
+
+::: {.card-text}
+
+Lorum ipsum
+
+:::
+
+:::
+
+:::
+
+:::
+
+
+:::
+<!-- end card grid -->
+
+::: 
+<!-- end column-page -->
+
+
+
+
+::: {.column-body}
+
+
+
+
+
+<!--
+
+> Een individuele toets heeft beperkingen, maar een programma niet
+
+> Het geven van feedback is geen garantie voor het gebruik ervan
+
+-->
+
+:::

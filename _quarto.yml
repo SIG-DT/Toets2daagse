@@ -13,6 +13,7 @@ website:
       - text: Jaargang
         menu:
           - sidebar:t2d2022
+          - sidebar:t2d2018
       - about.qmd
       
   sidebar:
@@ -23,6 +24,12 @@ website:
       collapse-level: 1
       contents:
         - 2022/index22.qmd
+    - id: t2d2018
+      title: "T2D 2018"
+      style: "docked"
+      collapse-level: 1
+      contents:
+        - 2018/index18.qmd     
 
 format:
   html:

@@ -4,27 +4,21 @@ format:
     page-layout: full
 ---
 
-::: {.column-page}
+::: {.column-screen}
 
 ::: {.grid .header .text-white}
-
-::: {.g-col-12 .g-col-md-9}
 
 Toets2daagse
 
 :::
-
-::: {.g-col-12 .g-col-md-3}
-
-<!-- ![](images/){.boom} -->
-
-:::
-
-:::
 <!-- end title -->
 
+:::
 
 <!-- ![](images/Leeromgeving.png) -->
+
+
+::: {.column-page}
 
 ::: {.lead}
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Toets2daagse - Toets2daagse 2022</title>
+<title>Toets2daagse - Sessies dag 1</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../2022/listday1.html" rel="next">
+<link href="../2022/index22.html" rel="prev">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -59,8 +61,38 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -107,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Toets2daagse 2022</h1>
+      <h1 class="quarto-secondary-nav-title">Sessies dag 1</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -122,12 +154,12 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2022/index22.html" class="sidebar-item-text sidebar-link active">Toets2daagse 2022</a>
+  <a href="../2022/index22.html" class="sidebar-item-text sidebar-link">Toets2daagse 2022</a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../2022/listday1.html" class="sidebar-item-text sidebar-link">Listing Example</a>
+  <a href="../2022/listday1.html" class="sidebar-item-text sidebar-link active">Sessies dag 1</a>
   </div>
 </li>
     </ul>
@@ -142,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Toets2daagse 2022</h1>
+<h1 class="title d-none d-lg-block">Sessies dag 1</h1>
 </div>
 
 
@@ -160,7 +192,39 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1671455570762" data-listing-reading-time-sort="0.31">
+<div class="thumbnail">
+<p><a href="../2022/dag1/digitaal-toetsen-organiseer-je-zo.html"> <img src="../2022/dag1/images/Toets2daagse_dag1_0205.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag1/digitaal-toetsen-organiseer-je-zo.html">
+<h3 class="no-anchor listing-title">
+Digitaal toetsen organiseer je zo
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In het digitale toetsproces zijn veel keuzes te maken, afhankelijk van de instelling, organisatiecultuur en beschikbare middelen. In deze sessie gaat Sharon in op alle…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag1/digitaal-toetsen-organiseer-je-zo.html">
+<div class="listing-author">
+drs. Sharon Klinkenberg
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -310,11 +374,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../2022/index22.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Toets2daagse 2022</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../2022/listday1.html" class="pagination-link">
-        <span class="nav-page-text">Listing Example</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->

@@ -14,4 +14,5 @@ tags:
 
 In het digitale toetsproces zijn veel keuzes te maken, afhankelijk van de instelling, organisatiecultuur en beschikbare middelen. In deze sessie gaat Sharon in op alle betrokken actoren in het toetsproces en hoe je komt tot een werkproces binnen de instelling of afdeling. Sharon bespreekt de voor en nadelen voor een meer gecentraliseerde of decentrale aanpak en brengt de verschillende werkwijzen in kaart.
 
-
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa2fb00c-9432-433b-ab95-af3800ed559f){.btn .btn-primary}
+[Slides](https://shklinkenberg.github.io/presentations/2022-12_toets2daagse/digitaal_toetsen_organiseren/2022-12_toetsorganisatie.html#/title-slide){.btn .btn-primary}

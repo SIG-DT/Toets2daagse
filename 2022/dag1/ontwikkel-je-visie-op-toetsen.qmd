@@ -6,6 +6,7 @@ author:
 institute: 
   - "Programmamanager digitaal toetsen bij SURF"
   - "Onderzoeker aan Hogeschool van Arnhem en Nijmegen"
+date: "2022-12-06 13:40:00"
 image: Toets2daagse_dag1_0126.jpg
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"

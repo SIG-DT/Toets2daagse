@@ -4,6 +4,7 @@ author:
   - "drs. Sharon Klinkenberg"
 institute: "Universiteit van Amsterdam"
 image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 11:30:00"
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"
 ---

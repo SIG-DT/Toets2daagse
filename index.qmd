@@ -22,7 +22,7 @@ Toets2daagse
 
 ::: {.lead}
 
-Welkom op de website van de Toets2daagse.
+KEYNOTES:
 
 :::
 
@@ -34,11 +34,11 @@ Welkom op de website van de Toets2daagse.
 
 ::: {.card-body}
 
-## 2022 {.card-title}
+## prof. dr. Lambert Schuwirth {.card-title}
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+* [Programmatisch toetsen: hype of logische ontwikkeling?](#){.link-light}
 
 :::
 
@@ -56,11 +56,11 @@ Welkom op de website van de Toets2daagse.
 
 ::: {.card-body}
 
-## Dag 1 {.card-title}
+## dr. Cor Sluijter {.card-title}
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+* [Programmatisch toetsen: hype of ei van Columbus?](#){.link-light}
 
 
 :::
@@ -79,11 +79,59 @@ Welkom op de website van de Toets2daagse.
 
 ::: {.card-body}
 
-## Dag 2 {.card-title}
+## dr. Kelly Beekman {.card-title}
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+* [Regie op de inzet van technologie!](#){.link-light}
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Sessies dag 1 {.card-title}
+
+::: {.card-text}
+
+Het overzicht van alle sessies van dag 1 is hier te vinden.
+
+* [Dag 1](2022/listday1.qmd)
+
+:::
+
+:::
+
+:::
+
+:::
+
+<!-- New card --> 
+
+::: {.g-col-12 .g-col-md-6}
+
+::: {.card .rounded-3 .mx-auto}
+
+::: {.card-body}
+
+## Sessies dag 2 {.card-title}
+
+::: {.card-text}
+
+Het overzicht van alle sessies van dag 1 is hier te vinden.
+
+* [Dag 2](2022/listday1.qmd)
 
 :::
 
@@ -161,49 +209,7 @@ Welkom op de website van de Toets2daagse.
 
 <!-- remarks -->
 
-<!-- New card --> 
 
-::: {.g-col-12 .g-col-md-6}
-
-::: {.card .rounded-3 .mx-auto}
-
-::: {.card-body}
-
-## Kop 1 {.card-title}
-
-::: {.card-text}
-
-Lorum ipsum
-
-:::
-
-:::
-
-:::
-
-:::
-
-<!-- New card --> 
-
-::: {.g-col-12 .g-col-md-6}
-
-::: {.card .rounded-3 .mx-auto}
-
-::: {.card-body}
-
-## Kop 2 {.card-title}
-
-::: {.card-text}
-
-Lorum ipsum
-
-:::
-
-:::
-
-:::
-
-:::
 
 
 :::

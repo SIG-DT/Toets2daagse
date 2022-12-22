@@ -1,8 +1,8 @@
 ---
-title: "The integration of mixed reality technology into clinical and procedural skills assessments"
+title: "The UNSW ‘AI-way’ to support learning and assessment in Higher Education courses"
 author:
-  - "Iona Minty, iBSc, MBChB"
-institute: "Medisch specialist aan University College London Hospital"
+  - "dr. David Kellermann"
+institute: "Universitair hoofddocent aan University of New South Wales in Australië"
 image: Toets2daagse_dag1_0205.jpg
 date: "2022-12-06 10:35:00"
 tags: 
@@ -13,8 +13,8 @@ tags:
 <--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
 :::
 
-Innovative mixed reality (MR) technologies have the potential to transform the delivery of medical education and may confer some advantages over traditional teaching methods by merging real and virtual worlds. The technology has the potential to help tackle many challenges currently faced in the delivery of high-quality medical education globally including quality, consistency, accessibility, and cost. The technology has also been successfully integrated into medical schools’ curricula, principally to support the delivery of anatomy teaching through a range of commercial and bespoke applications. The HL2 device may facilitate remote assessment of clinical and procedural skills. This approach may not only reduce cost and improve access to qualified assessors but may also facilitate assessments
-to be taken out of the abstract structured environment of formal examinations and into real-life opportunistic clinical interactions. In this session, we will discuss the potential ways AR can be integrated into medical education.
+Dr. David Kellermann successfully developed and used practical MS365 AI tools to streamline his courses. Examples are the automatic answering to student questions via a chatbot, the automatic generation of student assignments and automatic grading of exams. Dr. Kellerman will explain the problems he wanted to tackle, the way in which he used and programmed the particular MS365 tools, the support and knowledge needed to do the programming and the results he obtained. Both in terms of gain in student satisfaction and engagement, as well in teaching time-effectiveness and grading accuracy and speed
 
-[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8a9abf7b-6355-4bd0-824d-af3800ed9802){.btn .btn-primary}
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f12143f8-9866-4c9c-b3b2-af6a014dfc2d){.btn .btn-primary}
 

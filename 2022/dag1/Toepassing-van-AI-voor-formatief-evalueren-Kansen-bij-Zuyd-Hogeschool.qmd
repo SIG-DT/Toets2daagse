@@ -1,0 +1,24 @@
+---
+title: "Toepassing van AI voor formatief evalueren: Kansen bij Zuyd Hogeschool"
+author:
+  - "Ellen Domhof, MEd."
+  - "drs. Joost Elshoff"
+  - "dr. Marcel Schmitz"
+institute: 
+  - "Onderwijskundig begeleider aan Zuyd Hogeschool"
+  - "Onderwijstechnoloog aan Zuyd Hogeschool"
+  - "Docent en onderzoeker aan Zuyd Hogeschool"
+date: "2022-12-06 13:35:00"
+image: Toets2daagse_dag1_0126.jpg
+tags: 
+  - "Technologieondersteund toetsen - automatiseren en benutten"
+---
+
+::: {.column-margin}
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0130.jpg)-->
+:::
+
+In deze sessie zal toegelicht worden welke kansen er zoal liggen voor AI binnen het domein van formatief evalueren. Ellen, Joost en Marcel concretiseren deze kansen door het beschrijven van reeds bestaande en mogelijke toepassingen binnen verschillende academies van Zuyd Hogeschool.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=bddc247f-aa5d-4d47-b01b-af6a013c0046){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1dhHPCq2hyRYqfMq2jbY1kgFXr4omBR4J/view?usp=share_link){.btn .btn-primary}

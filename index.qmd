@@ -99,11 +99,15 @@ KEYNOTES:
 
 ::: {.card .rounded-3 .mx-auto}
 
+![](images/Toets2daagse_dag1_0041.jpg){.card-img-top}
+
 ::: {.card-body}
 
 ## Sessies dag 1 {.card-title}
 
 ::: {.card-text}
+
+
 
 Het overzicht van alle sessies van dag 1 is hier te vinden.
 
@@ -122,6 +126,8 @@ Het overzicht van alle sessies van dag 1 is hier te vinden.
 ::: {.g-col-12 .g-col-md-6}
 
 ::: {.card .rounded-3 .mx-auto}
+
+![](images/Toets2daagse_dag2_0066.jpg){.card-img-top}
 
 ::: {.card-body}
 

@@ -1,0 +1,21 @@
+---
+title: "Keynote-Programmatisch-toetsen:-hype-of-logische-ontwikkeling?"
+author:
+  - "prof. dr. Lambert Schuwirth"
+institute: "Hoogleraar Medisch Onderwijs aan Flinders University in Australië, Chang Gung University in Taiwan en Uniformed Services University for the Health Sciences Bethesda in de Verenigde Staten"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 9:45:00"
+tags: 
+  - "Opening"
+---
+
+::: {.column-margin}
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+:::
+
+Programmatisch toetsen is erg populair aan het worden. Dan leidt altijd de vraag of het werkelijk een noodzakelijke ontwikkeling en verbetering betreft of slechts een mode-fenomeen dat weer net zo snel zal verdwijnen. Of programmatisch toetsen werkelijk HET antwoord is op de vele problemen in gezondheidszorgonderwijs en daarbuiten moet nog blijken. Het is zeker niet een dogmatische methode of een panacee, maar meer een set principes voor de ontwikkeling van toetsprogramma’s.
+
+Die principes zijn een poging om toetsing betekenisvoller te maken voor het geven van feedback en sterkere onderbouwing te geven voor ‘high-stakes’ beslissingen. Programmatisch toetsing is dus niet hetzelfde als toetsen voor leren, maar die twee concepten hebben wel dwarsverbanden. Ik wil graag bespreken hoe programmatisch toetsen probeert enkele belangrijke problemen van meer traditionele toetsing te omzeilen en hoe het beter aansluit bij de huidige opvattingen over medische competentie en medisch onderwijs. Hoewel professor Schuwirth spreekt over de ontwikkelingen binnen medisch onderwijs zijn er volgens hem wellicht ook principes die ook gelden voor andere onderwijsdomeinen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7ba2cea2-1757-4417-bf69-af3800ebe5c3){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1WsIOmwGNkXuZMQv725xHEFU0rJ4F_hrd/view?usp=share_link){.btn .btn-primary}

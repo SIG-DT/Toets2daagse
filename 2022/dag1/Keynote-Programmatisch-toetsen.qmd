@@ -1,5 +1,5 @@
 ---
-title: "Keynote-Programmatisch-toetsen:-hype-of-logische-ontwikkeling?"
+title: "Keynote Programmatisch toetsen: hype of logische ontwikkeling?"
 author:
   - "prof. dr. Lambert Schuwirth"
 institute: "Hoogleraar Medisch Onderwijs aan Flinders University in Australië, Chang Gung University in Taiwan en Uniformed Services University for the Health Sciences Bethesda in de Verenigde Staten"

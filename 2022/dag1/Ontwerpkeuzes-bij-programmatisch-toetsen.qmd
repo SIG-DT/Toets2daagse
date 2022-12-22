@@ -1,19 +1,19 @@
 ---
-title: "Ontwikkel je visie op toetsen"
+title: "Ontwerpkeuzes bij programmatisch toetsen"
 author:
-  - "drs. Annette Peet"
-  - "Edwin Buijs, MSc"
+  - "dr. Liesbeth Baartman"
+  - "dr. Tamara van Schilt-Mol"
 institute: 
-  - "Programmamanager digitaal toetsen bij SURF"
-  - "Onderzoeker aan Hogeschool van Arnhem en Nijmegen"
+  - "Bijzonder lector Toetsen en Beoordelen in het Beroepsonderwijs aan Hogeschool Utrecht"
+  - "Lector Eigentijds Beoordelen en Beslissen aan Hogeschool van Arnhem en Nijmegen"
 date: "2022-12-06 13:40:00"
 image: Toets2daagse_dag1_0126.jpg
 tags: 
-  - "Technologieondersteund toetsen – samenwerken en organiseren"
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
 ---
 
-::: {.column-margin}
-![Foto: Maurice van den Bosch](Toets2daagse_dag1_0130.jpg)
-:::
 
-In de laatste jaren neemt het aandeel digitale toetsen sterk toe. We zijn op zoek naar nieuwe en veilige manieren om flexibel in tijd en plaats te toetsen. De vraag naar andere en authentieke vormen van toetsen neemt toe en we werken aan nieuwe concepten van toetsen en beoordelen, zoals programmatisch toetsen. Wil jij meer zicht krijgen op de toekomst van toetsen? In deze sessie nemen Annette en Edwin je eerst mee naar het toekomstperspectief op digitaal toetsen in 2027. Dit perspectief is het afgelopen jaar door de werkgroep Toetsen op afstand ontwikkeld in samenwerking met SURF. Vervolgens laten zij je zien hoe je een antwoord kunt krijgen op de vraag hoe toetsen in jouw opleiding of faculteit eruit gaat zien. Dit doen ze aan de hand van de visietool voor (digitaal) toetsen.
+In deze workshop presenteren Liesbeth en Tamara de uitgangspunten van programmatisch toetsen. Bij de uitgangspunten kun je als opleiding nog allerlei ontwerpkeuzes maken, passend bij je eigen studenten, het beroep waartoe je opleidt en de grootte van de opleiding. Je gaat aan de hand van gesprekskaartjes aan de slag met die ontwerpkeuzes, en leert welke voor- en nadelen bepaalde ontwerpkeuzes hebben.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e9ede8f7-5af1-4521-bfa1-af3800eca556){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1WbEgjrv0FpbIkz9X5Z0vH_kQAEjP5s-r/view?usp=share_link){.btn .btn-primary}

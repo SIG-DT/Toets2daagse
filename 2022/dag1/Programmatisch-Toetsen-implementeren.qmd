@@ -1,0 +1,24 @@
+---
+title: " Programmatisch Toetsen implementeren: Lessons learned in een design opleiding"
+author:
+  - "Linda Jakobs, MSc"
+  - "Janneke Wennekes, MSc"
+  - "Lambert Zaad"
+institute: 
+  - "Onderwijskundig onderzoeker aan HAN University of Applied Sciences"
+  - "Onderwijskundig beleidsmedewerker aan HAN University of Applied Sciences"
+  - "Docent HAN_University of Applied Sciences"
+date: "2022-12-06 13:40:00"
+image: Toets2daagse_dag1_0126.jpg
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0130.jpg)-->
+:::
+
+In deze sessie delen Linda, Janneke en Lambert het ontwerp en de ervaringen van het implementatie- en professionaliseringsproces van programmatisch toetsen van de opleiding Communications and Multimedia Design aan de HAN University of Applied Sciences. Zij geven een inkijkje in de aanleiding en de inbedding van programmatisch toetsen in de visievorming en curriculum-herziening van de opleiding. Tevens vertellen ze je over de lessons learned, dilemma’s, valkuilen, uitdagingen en ambities.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ec8dd271-03a6-4077-87fe-af6a01494f31){.btn .btn-primary}
+

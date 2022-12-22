@@ -1,0 +1,19 @@
+---
+title: "Technology support for faster and better test question generation"
+author:
+  - "dr. Nathan Thompson"
+institute: "Algemeen directeur Assessment Systems"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 13:35:00"
+tags: 
+  - "Technologieondersteund toetsen - automatiseren en benutten"
+---
+
+::: {.column-margin}
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+:::
+
+There is no doubt that new advancements in assessment technology are improving the test development process and empowering test creators. This session will discuss some of the advancements, their current state, and availability. Nathan will also discuss potential benefits and disadvantages; leveraging tech like AI is not always an easy or right solution. First, Nathan will discuss how modern assessment platforms provide sophisticated – but still manual – functionality to drive item banking and item review workflow. Next, he will discuss automated item generation, and the use of AI and automation in the review process, including automated enemy item checks, recommended domains, and recommended edits to meet best practices and guidelines.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3677e4c3-4a9c-4d30-a0f5-af3800ef150f){.btn .btn-primary}

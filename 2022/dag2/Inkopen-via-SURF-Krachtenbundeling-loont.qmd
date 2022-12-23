@@ -6,7 +6,7 @@ institute: "Senior contractmanager bij SURF"
 image: Toets2daagse_dag1_0205.jpg
 date: "2022-12-07 10:35:00"
 tags: 
-  - "Technologieondersteund toetsen – samenwerken en organiseren"
+  - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
@@ -14,7 +14,6 @@ tags:
 :::
 
 In deze sessie beschrijft Ellena de rol die SURF kan en wil spelen voor het gezamenlijk inkopen van producten via SURF. Zij geeft een overzicht van de verschillende inkooptrajecten rondom toetsing en toetssoftware en hoe je daar als instelling bij aan kan haken en gebruik van kan maken. Na afloop heb je een overzicht van deze trajecten en kun je betere gesprekken voeren op je eigen instelling over deze procedures.
-
 
 [Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b3bbd6a-7c10-43d2-be0c-af6a011c9b77){.btn .btn-primary}
 [Slides](https://drive.google.com/file/d/1KYN-oXwruHLcqXgz0UFFJAxbQLb_kI6H/view?usp=share_link){.btn .btn-primary}

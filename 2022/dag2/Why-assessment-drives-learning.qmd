@@ -1,0 +1,19 @@
+---
+title: "Why assessment drives learning"
+author:
+  - "drs. Sharon Klinkenberg"
+institute: 
+  - "Docent aan Universiteit van Amsterdam"
+date: "2022-12-07 13:35:00"
+tags: 
+  - "Toetsen in het hoger onderwijs"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+In deze sessie zal Sharon in gaan op het belang van toetsing als diagnostisch instrument. Waar feedback een cruciale rol speelt in het leerproces, is toetsing de bron waarop feedback gebaseerd zou moeten zijn. Aan het eind van de sessie heb je een helder inzicht hoe toetsing te integreren in het leerproces en hoe de resultaten gebruikt kunnen worden om het leerproces te sturen. Daarnaast schetst Sharon een droomvisie op een optimale integratie van toetsen en leren.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f78a3f24-3755-468e-b072-af3800f26c67){.btn .btn-primary}
+

@@ -1,11 +1,11 @@
 ---
-title: "Vind de meest geschikte toets met de Keuzetool toetsen"
+title: "De menselijke factor in cesuurbepalingen"
 author:
-  - "Edwin Buijs, MSc"
-  - "drs. Sharon Klinkenberg"
+  - "dr. Wilco Emons "
+  - "dr. Sebastiaan de Klerk"
 institute: 
-  -"Onderzoeker aan Hogeschool van Arnhem en Nijmegen"
-  -"Docent aan Universiteit van Amsterdam"
+  -"Universitair docent aan Tilburg University"
+  -"Senior wetenschappelijk onderzoeker bij Stichting Cito"
 image: Toets2daagse_dag1_0205.jpg
 date: "2022-12-07 10:35:00"
 tags: 
@@ -16,7 +16,10 @@ tags:
 ![Foto: Maurice van den Bosch]()
 :::
 
-Doordat in 2020 toetsen opeens massaal op afstand moesten plaatsvinden, ontstond een grote vraag naar alternatieven voor de reguliere toets. Uit een enquête onder docenten bleek dat kennis rond dit onderwerp lastig te vinden is. Daarom ontwikkelde de werkgroep Toetsen op afstand de Keuzetool Toetsen, die docenten helpt bij het kiezen van de juiste toetsvorm. De tool bundelt de adviezen van verschillende handreikingen die tijdens de coronapandemie zijn ontwikkeld en bevat een beslisboom waarmee de docent op basis van groepsgrootte en toetsdoel snel kan zien welke toetsvormen inzetbaar zijn. Bij elke specifieke toetsvorm worden tips en aandachtspunten genoemd. In de afgelopen maanden heeft de werkgroep deze tool geüpdatet om niet alleen geschikt te zijn voor toetsen op afstand, maar ook voor algemene toetsing. In deze workshop maak je nader kennis met de keuzetool en ga je er zelf mee aan de slag. Neem indien mogelijk daarvoor een laptop mee.
+Het kiezen van een slaag-zakgrens (cesuur) heeft vaak directe – en soms verregaande – consequenties voor studenten. Een algemene cesuur, zoals bijvoorbeeld de regel “55% goed of meer is geslaagd”, is eenvoudig toepasbaar en transparant, maar levert lang niet altijd een bevredigend resultaat op. Daar tegenover staan allerlei geavanceerde standaardbepalingsmethoden die heel specifiek kijken naar de toets(items) en/of de resultaten.
+  Ondanks deze rijkheid aan methodes blijkt uit peilingen onder docenten dat men juist het vaststellen van een eerlijke slaag-zakgrens erg lastig vindt. De vraag is dan: wat maakt het zo lastig? Is het de complexiteit van de procedures of spelen andere factoren een rol?
 
-[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e1254e34-8d74-4259-ae58-af6a011c860e){.btn .btn-primary}
-[Slides](https://drive.google.com/file/d/1XAxXxAm-i_Nsy7SV35bHNaRy2VfQZiEb/view?usp=share_link){.btn .btn-primary}
+In deze workshop lichten Wilco en Sebastiaan een specifiek – en wellicht onderbelicht – aspect van cesuurbepaling uit, namelijk de menselijke factor. Het bepalen van de cesuur raakt rechtstreeks aan het rechtvaardigheidsgevoel. De vraag is hoe we daar zo goed mogelijk grip op kunnen krijgen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8c1a2003-e40e-477d-998a-af3800f0dcf5){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1brtm8fDIvren8ekzgF8JDX8YddCuXEMj/view?usp=share_link){.btn .btn-primary}

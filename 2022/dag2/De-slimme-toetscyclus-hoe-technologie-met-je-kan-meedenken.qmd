@@ -4,8 +4,8 @@ author:
   - "Romy Noordhof, MSc."
   - "Eva de Schipper, MSC."
 institute: 
-  -"Hoofd Team Prototypes bij Stichting Cito"
-  -"Onderwijskundig onderzoeker bij Stichting Cito" 
+  - "Hoofd Team Prototypes bij Stichting Cito"
+  - "Onderwijskundig onderzoeker bij Stichting Cito" 
 image: Toets2daagse_dag2_0086.jpg
 date: "2022-12-07 13:35:00"
 tags: 

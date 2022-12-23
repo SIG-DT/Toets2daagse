@@ -1,0 +1,23 @@
+---
+title: "Rubrics (wanneer) zijn ze nuttig als beoordelingsinstrument"
+author:
+  - "dr. Joost van Kordelaar"
+institute: "Docent en onderwijskundig onderzoeker aan de Universiteit van Amsterdam"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 13:35:00"
+tags: 
+  - "Toetsen in het hoger onderwijs"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+verhogen. Maar is dat wel zo? Opleidingen die rubrics inzetten hebben vaak niet de financiële middelen en expertise voor een
+uitgebreide kwaliteitscontrole. Bovendien staat binnen het onderwijs en onderwijskunde het praktisch nut van rubrics ter discussie. Voorstanders wijzen op onder andere de transparant geformuleerde toetscriteria en prestatieniveaus in rubrics, terwijl tegenstanders aangeven dat algemeen geformuleerde prestatieniveaus in rubrics vaak niet passen bij individuele verslagen van studenten.
+
+Deze sessie bevat een demonstratie van een computertool om snel een uitgebreide kwaliteitscontrole van rubrics uit te voeren. Daarnaast bevat het de eerste resultaten van vragenlijstonderzoek naar beoordelaarskenmerken die het draagvlak voor rubrics kunnen voorspellen.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5887fb99-5994-4a60-9217-af3800ee594c){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1VB_js-gJ8A9OzuO90y6R3BBRnqHH-cm2/view?usp=share_link){.btn .btn-primary}

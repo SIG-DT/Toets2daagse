@@ -1,0 +1,24 @@
+---
+title: "Werkplekleren bij het Academisch Centrum Tandheelkunde Amsterdam: Verleden, heden, toekomst"
+author:
+  - "Myrna Roks, MSc. MEd."
+  - "dr. Irene Aartman"
+institute:
+  - "Tandarts-docent aan Academisch Centrum Tandheelkunde Amsterdam"
+  - "Universitair hoofddocent aan Academisch Centrum Tandheelkunde Amsterdam"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 13:35:00"
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Vanaf studiejaar 2020-2021 wordt bij ACTA binnen enkele klinische lijnen van de masteropleiding Tandheelkunde gewerkt met Entrustable Professional Activities (EPA’s). EPA’s zijn “observeerbare taken/ verantwoordelijkheden die toevertrouwd worden aan voldoende competente studenten in de opleiding” (Ten Cate e.a., 2015).
+Met de invoering van de EPA-systematiek en het daaraan gekoppelde digitale portfolio is de toetsing ingericht volgens de principes van programmatisch toetsen. In plaats van een systeem met enkel high- stake beoordelingen wordt gekeken naar de ontwikkeling van de student naar het beoogde eindniveau als geheel. In het digitale portfolio wordt na elke kliniekdag een EPA-formulier opgeslagen. Nadat de zelfbeoordeling en reflectie door de student is ingevuld, geeft de docent feedback hierop. Doordat de studenten bij dit proces het voortouw nemen, worden de studenten gestimuleerd om de regie te nemen over hun leerproces.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f0df2b14-a140-4784-9199-af3800ee09f5){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1Yp_u8ZLHVkRx02UN5EUOkAGdXtWNy5eH/view?usp=share_link){.btn .btn-primary}

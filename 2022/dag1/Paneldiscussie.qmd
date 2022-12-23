@@ -1,0 +1,42 @@
+---
+title: "Paneldiscussie: Toetsen en leren in balans"
+author:
+  - "Rudy Nicola"
+  - "dr. Tamara van Schilt-Mol"
+  - "dr. Cor Sluijter"
+  - "dr. Liesbeth Baartman"
+  - "prof. dr. Marcel A.L.M. van Assen"
+institute:
+  - "Discussiepanelleider"
+  - "Lector Eigentijds Beoordelen en Beslissen aan Hogeschool van Arnhem en Nijmegen en opleidingsdirecteur van de Master Toetdeskundige aan Fontys Hogescholen"
+  - "Toetsdeskundige en docent aan Master Toetsdeskundige Fontys"
+  - "Bijzonder lector Toetsen en Beoordelen in het Beroepsonderwijs aan Hogeschool Utrecht"
+  - "Universitair hoofddocent Methoden en Technieken van Onderzoek en vice-decaan onderwijs aan Tilburg University"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 15:15:00"
+tags: 
+  - "Afsluiting"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch](Toets2daagse6dec_panel.jpg)
+:::
+
+Rudy Nicola (Discussiepanelleider)
+Zijn missie is om het leven van mensen te verrijken met waardevolle verhalen. Verhalen die je raken; enthousiast maken, laten lachen of juist ontroeren. Waar je iets van leert of anders laat nadenken. Als dagvoorzitter is hij de verbindende factor tussen de verteller en de ontvanger. Zijn doel is om mensen in de zaal na afloop met een goed gevoel naar huis te sturen. Dat ze iets gaan doen, iets laten of nooit meer vergeten. Met een big smile, ‘n hoop interactie en waardevolle verhalen.
+
+Tamara van Schilt-Mol is lector Eigentijds beoordelen en beslissen. Binnen haar lectoraat wordt onderzoek gedaan naar hoe eigentijds beoordelen
+en beslissen moet worden ontworpen, ingericht en uitgevoerd, zodat het bijdraagt aan de leerfunctie, de beslisfunctie en de evaluatiefunctie. Daarnaast is Tamara, samen met Kelly Beekman, werkzaam als opleidingsdirecteur van de master Toetsdeskundige.
+
+Cor Sluijter is een zelfstandig gevestigde toetsdeskundige. Hij is parttime werkzaam bij de Fontys Master Toetsdeskundige. Hiernaast is Cor lid van het College Deskundigheid Financiële Dienstverlening waarbinnen hij verantwoordelijk is voor de kwaliteit van de verplichte examens voor
+beginnende en gevorderde beroepsbeoefenaren in de financiële sector. Verder is hij extern lid van de examencommissies TSB en TSHD van de Universiteit Tilburg.
+  Cor heeft meer dan 36 jaar ervaring op het vlak van toetsen en examineren. Hij was van 1986 tot 2022 werkzaam bij Cito. Zijn laatste functie daar was hoofd van de afdeling Psychometrie en Onderzoek (2014- 2020). Daarvoor was hij onder andere directeur van de afdeling Beroepsonderwijs en Bedrijfsleven (2004- 2014), programmamanager van het Leerlingvolgsysteem voor het Primair Onderwijs (1999-2004) en senior onderzoeker binnen de afdeling Onderzoek en Psychometrische Dienstverlening (1994-1999). Verder was Cor lid van de Commissie Bruijn die tot doel had advies te geven over vormen van externe validering van de examinering in het hbo (2012) en voorzitter van de Nederlandse Vereniging voor Examens (NVE; 2009-2014). Cor is psycholoog en gespecialiseerd in methoden en technieken van onderzoek.
+
+Liesbeth Baartman is als bijzonder lector verbonden aan het Lectoraat Beroepsonderwijs van Hogeschool Utrecht. Ze richt zich op de thematiek van toetsing en beoordeling in het beroepsonderwijs, met als specifieke vraag hoe we in het beroepsonderwijs de balans tussen leren en beslissen kunnen zoeken. Leren aansluitend bij verbindingen tussen theorie en praktijk, en school en werk. En beslissen gericht op robuuste beslissingen die recht doen aan dit leerproces. Programmatisch toetsen en formatief evalueren zijn daarbij belangrijke speerpunten.
+
+Marcel A.L.M. van Assen is werkzaam bij het departement Methoden en Technieken, faculteit Tilburg School of Social and Behavioral Sciences (TSB), en bij Departement Sociologie van de Universiteit Utrecht. Zijn onderzoek richt zich voornamelijk op meta-onderzoek, ofwel onderzoek naar onderzoek (o.a., methoden, rapportage, reproduceerbaarheid, evaluatie), met name vanuit een statistisch perspectief.
+  De laatste zeven jaren maakte hij deel uit van examencommissies, eerst bij TSB, daarna TSB psychologie, en tegenwoordig als extern lid bij Radboud psychologie. Digitaal en/of op afstand toetsen was en is daarin een belangrijk thema, dat zowel kansen als uitdagingen met zich meebrengt. Marcel is tegenwoordig vice- decaan onderwijs bij TSB.
+
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=146e59f1-23db-429f-91c6-af3800ef7574){.btn .btn-primary}

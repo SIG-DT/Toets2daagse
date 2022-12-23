@@ -1,0 +1,23 @@
+---
+title: "De slimme toetscyclus hoe technologie met je kan meedenken"
+author:
+  - "Romy Noordhof, MSc."
+  - "Eva de Schipper, MSC."
+institute: 
+  -"Hoofd Team Prototypes bij Stichting Cito"
+  -"Onderwijskundig onderzoeker bij Stichting Cito" 
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 13:35:00"
+tags: 
+  - "Technologieondersteund toetsen - automatiseren en benutten"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Tijdens het ontwerpen, construeren, afnemen, nakijken en evalueren van een toets maak je als toetsexpert veel overwegingen om de kwaliteit van toetsing te borgen. Wat als we tijdens deze stappen gebruikmaken van slimme technologie die met je meedenkt? Niet ter vervanging maar ter ondersteuning van de professional. Het portfolio van CitoLab bevat een aantal prototypes waarmee vragen onderzocht kunnen worden als: Hoe kunnen we sneller en makkelijker open antwoorden nakijken? Hoe kunnen we gepast oefenmateriaal aanbevelen? Hoe kunnen we goed scoren op basis van toetswijsheid (alleen) voorkomen? En hoe kunnen we de analyse na een toets inzichtelijker maken? Bij deze onderzoeksvragen tonen Romy en Eva voor de verschillende stappen in de toetscyclus proof of concepts van slimme tooling, en zie je hoe ze deze vragen denken te beantwoorden.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1403ad31-ecd5-4cab-8d06-af6a010eea3c){.btn .btn-primary}
+[Slides](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1403ad31-ecd5-4cab-8d06-af6a010eea3c){.btn .btn-primary}

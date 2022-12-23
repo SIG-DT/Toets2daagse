@@ -1,0 +1,19 @@
+---
+title: "Samenversnellen, het spel, geef meer vaart aan wendbaar en flexibel Onderwijs"
+author:
+  - "Marcel Penners"
+institute: "Beleidsmedewerker aan Hogeschool van Arnhem Nijmegen"
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen – samenwerken en organiseren"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Samen Versnellen is een teamtrainingsspel dat is ontwikkeld in co-creatie met hogescholen en universiteiten.Het bevat realistische studentvragen uit de praktijk en heeft als doel om samen te ontdekken wat flexibiliseringconcreet inhoudt voor de onderwijs- en organisatiepraktijk van hogescholen en universiteiten, kennis te delen en concrete vervolgstappen te zetten.
+
+In deze workshop ga je concreet aan de slag met studentvragen op het gebied van toetsing en krijg je meer inzicht in het samenspel van onderwijs en organisatie om de studentvraag te kunnen ondersteunen, samen zoekend naar creatieve, maar ook haalbare oplossingen voor alle betrokken. Meer informatie is te vinden op samenversnellen.nl.
+
+[Slides](https://drive.google.com/file/d/1XFiXFXcQ2WR3fAtqn1Sw4hnUOR1uqVUk/view?usp=share_link){.btn .btn-primary}

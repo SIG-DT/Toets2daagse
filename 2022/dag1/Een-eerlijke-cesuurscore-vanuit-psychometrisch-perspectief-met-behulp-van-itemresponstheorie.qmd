@@ -1,0 +1,22 @@
+---
+title: "Een eerlijke cesuurscore vanuit psychometrisch perspectief met behulp van itemresponstheorie"
+author:
+  - "dr. Monika Vaheoja"
+institute: "Psychometricus bij 10voordeleraar en mometRie"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 13:35:00"
+tags: 
+  - "Toetsen in het hoger onderwijs"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+De cesuurscore op een toets is het minimaal aantal punten dat nodig is om te slagen en geeft ook de minimale bekwaamheid aan die nodig is voor een vervolgopleiding of afstuderen. Deze cesuurscore kan bepaald worden door inhoudelijke experts (Angoff normeringspanels), op basis van de resultaten van de deelnemers (relatieve cesuurbepalingsmethode) of een eenvoudige methode waarbij de cesuurscore wordt bepaald met een vastgesteld percentage (bijv. 55%) totaalaantal te behalen punten op de toets.
+
+Hoe eerlijk zijn deze methodes en hoe beoordeel je dat? Een cesuurscore is eerlijk als de kans voor slagen op een toets alleen afhankelijk is van je kennis of vaardigheid en niet bijvoorbeeld van de moeilijkheid van de toets of de vaardigheid van een groep deelnemers aan de toets. In deze parallelsessie gaat Monika hier verder op in met behulp van de itemresponstheorie.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=23daf671-f392-4fff-baea-af6a013bdec1){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1Krpk1c_6qbxyZdlBMViBzXweK2no0i6j/view?usp=share_link){.btn .btn-primary}

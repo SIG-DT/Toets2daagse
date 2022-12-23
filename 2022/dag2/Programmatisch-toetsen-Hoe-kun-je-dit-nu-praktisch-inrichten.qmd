@@ -1,0 +1,19 @@
+---
+title: "Programmatisch toetsen: Hoe kun je dit nu praktisch inrichten?"
+author:
+  - "Wessel Peeters, MEd."
+institute: "Leraar, onderwijskundige en mede-oprichter van Vernieuwenderwijs"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Veel opleidingen hebben interesse in programmatisch toetsen. Holistisch beoordelen klinkt al snel interessant en je zou kunnen spreken van een echte hype. Tegelijkertijd wordt het concept op erg verschillende geïnterpreteerd in het land en zijn er ook veel opleidingen die worstelen met vraagstukken als: wat is nu precies een datapunt (low- stake)? Hoe richt ik een medium-stake in? Hoe kom ik tot een valide high-stake beslissing? Daar gaat Wessel deze sessie op in. Op basis van ervaringen bij verschillende opleidingen krijg je praktische voorbeelden en handvatten om programmatisch toetsen succesvol in te richten.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=77b622dd-70df-4eb8-b10e-af6a011cc4d5){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1__JG5Xz-6DgOSOlsRD01udl-a8DTgsg2/view?usp=share_link){.btn .btn-primary}

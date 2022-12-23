@@ -1,0 +1,23 @@
+---
+title: "Realisatie geautomatiseerd proces digitaal toetsen"
+author:
+  - "Jeroen Kassenberg"
+  - "Evelien Westerbeek van Eerten"
+institute: 
+  -"Procescoördinator digitaal toetsen aan Radboud Universiteit"
+  - "Procescoördinator digitaal toetsen aan Radboud Universiteit"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen – samenwerken en organiseren"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Bij de Radboud Universiteit wordt sinds 2017 op groeiende schaal digitaal getoetst. Vanaf het begin is de student centraal gesteld in het proces. Voor een goede studentervaring hebben ze bij Radboud Universiteit een geharmoniseerd en (grotendeels) geautomatiseerd ondersteuningssysteem opgetuigd om het behapbaar te houden.
+In deze sessie bieden Jeroen en Evelien een kijkje achter de schermen. Ze gaan in op het aantal mensen dat ze nodig hebben, hoe ze handwerk minimaliseren, en ook hoe ze de foutgevoeligheid verkleinen. Succesfactoren blijken de gefaseerde schaalvergroting en de ontwikkelde ondersteuningssystemen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d8cdcb4b-6528-4bcb-b15b-af3800f11c22){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1L4bzN6yrvkYUTWS7-zD8yliVTFk1poHL/view?usp=share_link){.btn .btn-primary}

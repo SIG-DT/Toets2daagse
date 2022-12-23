@@ -1,0 +1,19 @@
+---
+title: "Studiecoaching bij programmatisch toetsen, hoe doe je dat?"
+author:
+  - "Debby Weerlink, MSc. MEd."
+institute: "Toetsdeskundige, onderzoeker en docent aan Fontys Hogeschool"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 13:35:00"
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Programmatisch toetsen is een holistische benadering van toetsing waarbij gekeken wordt naar de gehele ontwikkeling van de student bij het ontwikkelen van complexe vaardigheden en competenties die hij nodig heeft in de beroepspraktijk. Hierbij is één van de uitgangspunten dat dialoog over feedback bijdraagt aan de ontwikkeling van zelfsturing bij de student. Studiecoaching is een effectieve manier om die dialoog te creëren tussen de student en de studiecoach. Op basis van literatuuronderzoek en praktijkervaringen van meerdere opleidingen die reeds programmatisch toetsen, zijn zeven ontwerpprincipes voor de inrichting van studiecoaching binnen programmatisch toetsen geformuleerd. In deze sessie wordt je langs deze ontwerpprincipes geleid en is er aan het einde kort ruimte om met elkaar in gesprek te gaan.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ba8ed77f-5e2f-4163-941c-af6a013bee05){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1YOWNYFDXOq_bVXYvKNs_QJuN3yj13LBO/view?usp=share_link){.btn .btn-primary}

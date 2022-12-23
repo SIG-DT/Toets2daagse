@@ -3,14 +3,14 @@ title: "Keynote Programmatisch toetsen: hype of logische ontwikkeling?"
 author:
   - "prof. dr. Lambert Schuwirth"
 institute: "Hoogleraar Medisch Onderwijs aan Flinders University in Australië, Chang Gung University in Taiwan en Uniformed Services University for the Health Sciences Bethesda in de Verenigde Staten"
-image: Toets2daagse_dag1_0205.jpg
+image: Lambert-Schuwirth.jpg
 date: "2022-12-06 9:45:00"
 tags: 
   - "Opening"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Lambert-Schuwirth.jpg)
 :::
 
 Programmatisch toetsen is erg populair aan het worden. Dan leidt altijd de vraag of het werkelijk een noodzakelijke ontwikkeling en verbetering betreft of slechts een mode-fenomeen dat weer net zo snel zal verdwijnen. Of programmatisch toetsen werkelijk HET antwoord is op de vele problemen in gezondheidszorgonderwijs en daarbuiten moet nog blijken. Het is zeker niet een dogmatische methode of een panacee, maar meer een set principes voor de ontwikkeling van toetsprogramma’s.

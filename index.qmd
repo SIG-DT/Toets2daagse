@@ -32,6 +32,8 @@ KEYNOTES:
 
 ::: {.card .text-white .bg-primary .rounded-3 .mx-auto}
 
+![](2022/dag1/Lambert-Schuwirth.jpg){.card-img-top}
+
 ::: {.card-body}
 
 ## prof. dr. Lambert Schuwirth {.card-title}
@@ -53,6 +55,8 @@ KEYNOTES:
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 
 ::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+![](2022/dag2/Cor-Sluijter.jpg){.card-img-top}
 
 ::: {.card-body}
 
@@ -76,6 +80,8 @@ KEYNOTES:
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 
 ::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
+
+![](2022/dag2/Kelly-Beekman.jpg){.card-img-top}
 
 ::: {.card-body}
 
@@ -137,7 +143,7 @@ Het overzicht van alle sessies van dag 1 is hier te vinden.
 
 Het overzicht van alle sessies van dag 1 is hier te vinden.
 
-* [Dag 2](2022/listday1.qmd)
+* [Dag 2](2022/listday2.qmd)
 
 :::
 

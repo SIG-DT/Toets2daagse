@@ -3,14 +3,14 @@ title: "Inkopen via SURF: Krachtenbundeling loont"
 author:
   - "Ellena Papageorgiou"
 institute: "Senior contractmanager bij SURF"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag2_0086.jpg
 date: "2022-12-07 10:35:00"
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0086.jpg)
 :::
 
 In deze sessie beschrijft Ellena de rol die SURF kan en wil spelen voor het gezamenlijk inkopen van producten via SURF. Zij geeft een overzicht van de verschillende inkooptrajecten rondom toetsing en toetssoftware en hoe je daar als instelling bij aan kan haken en gebruik van kan maken. Na afloop heb je een overzicht van deze trajecten en kun je betere gesprekken voeren op je eigen instelling over deze procedures.

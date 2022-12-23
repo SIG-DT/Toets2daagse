@@ -3,14 +3,14 @@ title: "Rubrics (wanneer) zijn ze nuttig als beoordelingsinstrument"
 author:
   - "dr. Joost van Kordelaar"
 institute: "Docent en onderwijskundig onderzoeker aan de Universiteit van Amsterdam"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0041.jpg
 date: "2022-12-06 13:35:00"
 tags: 
   - "Toetsen in het hoger onderwijs"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0041.jpg)
 :::
 
 verhogen. Maar is dat wel zo? Opleidingen die rubrics inzetten hebben vaak niet de financiële middelen en expertise voor een

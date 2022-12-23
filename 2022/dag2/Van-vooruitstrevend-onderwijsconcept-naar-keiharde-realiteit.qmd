@@ -6,13 +6,14 @@ author:
 institute: 
   - "Beleidsadviseur onderwijsinnovatie aan Hogeschool Inholland"
   - "Onderwijskundig beleidsadviseur aan Hogeschool Inholland"
+image: Toets2daagse_dag2_0117.jpg
 date: "2022-12-07 13:35:00"
 tags: 
   - "Programmatisch toetsen, incl. technologische ondersteuning"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0117.jpg)
 :::
 
 In 2019 startte de Ad Crossmediale Communicatie van Hogeschool Inholland enthousiast met programmatisch toetsen. De praktijk bleek weerbarstig. Coaches zagen hoe studenten zich ontwikkelden, maar de vertaalslag naar datapunten in het digitaal portfolio Mahara kwam moeizaam op gang, met een hoge werkdruk voor student en coach tot gevolg. Er ontstond weerstand, maar bij Inholland geloofden ze in het onderwijsconcept. De zoektocht naar onderwijs dat studeerbaar en werkbaar is begon, waarbij ze trouw wilden blijven aan het onderwijsconcept. Michael en Jacqueline vertellen welke iteraties er hebben plaatsgevonden op basis van zowel coach- als student feedback. Ze delen ervaringen met Mahara als digitaal portfolio en de Smart Evidence-matrix om de ontwikkeling van studenten vast te leggen.

@@ -3,14 +3,14 @@ title: "The UNSW ‘AI-way’ to support learning and assessment in Higher Educa
 author:
   - "dr. David Kellermann"
 institute: "Universitair hoofddocent aan University of New South Wales in Australië"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0134.jpg
 date: "2022-12-06 10:35:00"
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0134.jpg)-->
 :::
 
 Dr. David Kellermann successfully developed and used practical MS365 AI tools to streamline his courses. Examples are the automatic answering to student questions via a chatbot, the automatic generation of student assignments and automatic grading of exams. Dr. Kellerman will explain the problems he wanted to tackle, the way in which he used and programmed the particular MS365 tools, the support and knowledge needed to do the programming and the results he obtained. Both in terms of gain in student satisfaction and engagement, as well in teaching time-effectiveness and grading accuracy and speed.

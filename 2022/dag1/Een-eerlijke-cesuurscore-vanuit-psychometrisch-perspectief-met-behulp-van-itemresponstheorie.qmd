@@ -3,14 +3,14 @@ title: "Een eerlijke cesuurscore vanuit psychometrisch perspectief met behulp va
 author:
   - "dr. Monika Vaheoja"
 institute: "Psychometricus bij 10voordeleraar en mometRie"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0010.jpg
 date: "2022-12-06 13:35:00"
 tags: 
   - "Toetsen in het hoger onderwijs"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0010.jpg)
 :::
 
 De cesuurscore op een toets is het minimaal aantal punten dat nodig is om te slagen en geeft ook de minimale bekwaamheid aan die nodig is voor een vervolgopleiding of afstuderen. Deze cesuurscore kan bepaald worden door inhoudelijke experts (Angoff normeringspanels), op basis van de resultaten van de deelnemers (relatieve cesuurbepalingsmethode) of een eenvoudige methode waarbij de cesuurscore wordt bepaald met een vastgesteld percentage (bijv. 55%) totaalaantal te behalen punten op de toets.

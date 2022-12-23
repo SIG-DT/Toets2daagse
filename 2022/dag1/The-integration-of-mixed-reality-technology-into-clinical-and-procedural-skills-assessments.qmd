@@ -3,14 +3,14 @@ title: "The integration of mixed reality technology into clinical and procedural
 author:
   - "Iona Minty, iBSc, MBChB"
 institute: "Medisch specialist aan University College London Hospital"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0022.jpg
 date: "2022-12-06 10:35:00"
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)-->
 :::
 
 Innovative mixed reality (MR) technologies have the potential to transform the delivery of medical education and may confer some advantages over traditional teaching methods by merging real and virtual worlds. The technology has the potential to help tackle many challenges currently faced in the delivery of high-quality medical education globally including quality, consistency, accessibility, and cost. The technology has also been successfully integrated into medical schools’ curricula, principally to support the delivery of anatomy teaching through a range of commercial and bespoke applications. The HL2 device may facilitate remote assessment of clinical and procedural skills. This approach may not only reduce cost and improve access to qualified assessors but may also facilitate assessments

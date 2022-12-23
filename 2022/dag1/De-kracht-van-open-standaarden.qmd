@@ -3,14 +3,14 @@ title: "De kracht van open standaarden?"
 author:
   - "Mark Molenaar, MSc."
 institute: "Eigenaar apenutmize"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0022.jpg
 date: "2022-12-06 13:35:00"
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)
 :::
 
 Open standaarden zoals Question & Test Interoperability (QTI) worden doorgaans beschouwd als een defensief mechanisme om uitwisselbaarheid van data tussen aanbieders mogelijk te maken en zodoende “vendor lock-in” te voorkomen en intellectueel eigendom te beschermen. Open standaarden kunnen echter ook gebruikt worden om “best of breed” ecosystemen vorm te geven, waarbij de beste producten van verschillende aanbieders, eventueel aangevuld met eigen ontwikkelde componenten, gecombineerd kunnen worden in een ecosysteem op maat.

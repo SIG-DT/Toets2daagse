@@ -6,13 +6,14 @@ author:
 institute:
   - "Projectleider digitaal toetsen aan Tilburg University"
   - "Manager tentaminering aan Tilburg University"
+image: Toets2daagse_dag2_0086.jpg
 date: "2022-12-07 10:35:00"
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0086.jpg)
 :::
 Hoger onderwijs presenteert regelmatig hun inrichting voor digitaal toetsen. Instellingen vertellen over hun BYOD inrichting of hebben zich toegelegd op digitale toetsplekken van de instelling zelf. Daarnaast geven diverse infra- en toetsapplicaties vorm aan het digitale toetslandschap. Denk aan Schoolyear, Ans, TestVision, RemindoToets, STEP, en de Axians tentamenwerkplek. Tijdens die presentaties ligt de nadruk op de keuzes van middelen. Maar op basis waarvan worden die keuzes gemaakt? In welke mate zijn we daarbij technologie gedreven (push) en/of strategie gedreven (pull)?
 

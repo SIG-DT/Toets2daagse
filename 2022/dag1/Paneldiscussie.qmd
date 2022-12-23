@@ -12,7 +12,7 @@ institute:
   - "Toetsdeskundige en docent aan Master Toetsdeskundige Fontys"
   - "Bijzonder lector Toetsen en Beoordelen in het Beroepsonderwijs aan Hogeschool Utrecht"
   - "Universitair hoofddocent Methoden en Technieken van Onderzoek en vice-decaan onderwijs aan Tilburg University"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse6dec_panel.jpg
 date: "2022-12-06 15:15:00"
 tags: 
   - "Afsluiting"
@@ -36,7 +36,5 @@ Liesbeth Baartman is als bijzonder lector verbonden aan het Lectoraat Beroepsond
 
 Marcel A.L.M. van Assen is werkzaam bij het departement Methoden en Technieken, faculteit Tilburg School of Social and Behavioral Sciences (TSB), en bij Departement Sociologie van de Universiteit Utrecht. Zijn onderzoek richt zich voornamelijk op meta-onderzoek, ofwel onderzoek naar onderzoek (o.a., methoden, rapportage, reproduceerbaarheid, evaluatie), met name vanuit een statistisch perspectief.
   De laatste zeven jaren maakte hij deel uit van examencommissies, eerst bij TSB, daarna TSB psychologie, en tegenwoordig als extern lid bij Radboud psychologie. Digitaal en/of op afstand toetsen was en is daarin een belangrijk thema, dat zowel kansen als uitdagingen met zich meebrengt. Marcel is tegenwoordig vice- decaan onderwijs bij TSB.
-
-
 
 [Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=146e59f1-23db-429f-91c6-af3800ef7574){.btn .btn-primary}

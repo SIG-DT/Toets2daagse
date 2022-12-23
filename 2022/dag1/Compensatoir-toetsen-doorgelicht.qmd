@@ -3,14 +3,14 @@ title: "Compensatoir toetsen doorgelicht"
 author:
   - "dr. Niels Smits"
 institute: "Universitair hoofddocent aan Universiteit van Amsterdam"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0108.jpg
 date: "2022-12-06 10:35:00"
 tags: 
   - "Toetsen in het hoger onderwijs"
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+[Foto: Maurice van den Bosch](Toets2daagse_dag1_0108.jpg)
 :::
 
 Bij compensatoir toetsen slaagt een student voor een cluster van vakken of een vak met verschillende onderdelen als hij/zij gemiddeld over het cluster of over de onderdelen een voldoende cijfer heeft. In het Nederlandse hoger onderwijs wordt steeds vaker overwogen om over te stappen op compensatoir toetsen. Holistische, ontwikkelgerichte toetsvormen gebruiken ook vaak (impliciet) dit concept. Voor het legitimeren van compensatoire toetsen kunnen verschillende redenen zijn. In deze sessie kijken we vanuit een psychometrisch oogpunt, waarin zaken als betrouwbaarheid en validiteit centraal staan. De sessie reikt je termen en handvatten aan om het gesprek over compensatoir toetsen in je eigen context goed onderbouwd aan te gaan.

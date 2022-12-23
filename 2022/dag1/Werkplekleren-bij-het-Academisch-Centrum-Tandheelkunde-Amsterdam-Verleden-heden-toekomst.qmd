@@ -6,14 +6,14 @@ author:
 institute:
   - "Tandarts-docent aan Academisch Centrum Tandheelkunde Amsterdam"
   - "Universitair hoofddocent aan Academisch Centrum Tandheelkunde Amsterdam"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0022.jpg
 date: "2022-12-06 13:35:00"
 tags: 
   - "Programmatisch toetsen, incl. technologische ondersteuning"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)
 :::
 
 Vanaf studiejaar 2020-2021 wordt bij ACTA binnen enkele klinische lijnen van de masteropleiding Tandheelkunde gewerkt met Entrustable Professional Activities (EPA’s). EPA’s zijn “observeerbare taken/ verantwoordelijkheden die toevertrouwd worden aan voldoende competente studenten in de opleiding” (Ten Cate e.a., 2015).

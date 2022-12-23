@@ -6,14 +6,14 @@ author:
 institute: 
   - "Onderzoeker bij Stichting Cito"
   - "Psychometrisch onderzoeker bij Stichting Cito"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag1_0022.jpg
 date: "2022-12-06 10:35:00"
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0205.jpg)-->
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)-->
 :::
 
 Een toets- en itemanalyse is onmisbaar bij het beoordelen van de kwaliteit van een toets. Is een toetsvraag niet te moeilijk? Meet een toetsvraag wel wat we willen? Is de toets zelf wel onderscheidend en betrouwbaar genoeg? En wat doen we vervolgens met die informatie? In deze sessie geven Stefan en Bregtje een opfriscursus over de onderliggende statistische berekeningen en interpretatie hiervan. De kennis passen zij toe op een aantal praktische voorbeelden. Tevens besteden ze aandacht aan beschikbare (gratis) software om toets- en itemanalyses uit te voeren.

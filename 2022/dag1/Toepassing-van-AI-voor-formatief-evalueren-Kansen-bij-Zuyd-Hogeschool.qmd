@@ -9,13 +9,13 @@ institute:
   - "Onderwijstechnoloog aan Zuyd Hogeschool"
   - "Docent en onderzoeker aan Zuyd Hogeschool"
 date: "2022-12-06 13:35:00"
-image: Toets2daagse_dag1_0126.jpg
+image: Toets2daagse_dag1_0022.jpg
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0130.jpg)-->
+<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)-->
 :::
 
 In deze sessie zal toegelicht worden welke kansen er zoal liggen voor AI binnen het domein van formatief evalueren. Ellen, Joost en Marcel concretiseren deze kansen door het beschrijven van reeds bestaande en mogelijke toepassingen binnen verschillende academies van Zuyd Hogeschool.

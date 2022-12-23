@@ -3,14 +3,14 @@ title: "Item Response Theory for Test Design: What can we learn for application 
 author:
   - "dr. Nathan Thompson"
 institute: "Algemeen directeur van Assessment Systems in de Verenigde Staten"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag2_0086.jpg
 date: "2022-12-07 13:35:00"
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0086.jpg)
 :::
 
 Item response theory (IRT) is a powerful psychometric paradigm that is used by many large-scale exams in the Western world. However, it remains underutilized in higher education. This session will provide a brief introduction to IRT and how it can be used in higher education. While it does not fit well with classroom assessment, it can greatly enhance the measurement power of more standardized tests such as admissions, placement, and credentialing. In a data-driven world, having stronger exam scores is useful in helping both students and institutions. Nathan will provide some examples from past projects, including the implementation of computerized adaptive testing for admissions exams in Mexico, Estonia, and the United Arab Emirates.

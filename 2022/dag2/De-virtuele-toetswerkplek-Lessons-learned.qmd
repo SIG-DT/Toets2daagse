@@ -3,14 +3,14 @@ title: "De virtuele toetswerkplek: Lessons learned"
 author:
   - "drs. William van Santen"
 institute: "Productmanager Clouddiensten bij SURF"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag2_0092.jpg
 date: "2022-12-07 13:35:00"
 tags: 
   - "Technologieondersteund toetsen – samenwerken en organiseren"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0092.jpg)
 :::
 
 In deze sessie wordt de verkenning naar een virtuele toetswerkplek besproken. William legt uit hoe instellingen samen met SURF naar een gezamenlijk uitgangspunt gewerkt hebben, welke stappen er zijn ondernomen en welke uitdagingen je als instelling tegenkomt. Na deze sessie ben je op de hoogte van eventuele valkuilen en uitdagingen en weet je meer van de verschillende oplossingsrichtingen die onder instellingen worden gebruikt.

@@ -24,13 +24,13 @@
 
 .card {
   
-  min-height: 300px;
+  min-height: 500px;
   
 }
 
 .card-img-top {
   
-  height: 150px;
+  height: 220px;
   object-fit: cover;
   ertical-align: middle;
   

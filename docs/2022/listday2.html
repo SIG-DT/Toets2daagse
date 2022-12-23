@@ -1,0 +1,896 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.280">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Toets2daagse - Sessies dag 2</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../2022/listday1.html" rel="prev">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-sidebar docked nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Toets2daagse</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-jaargang" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Jaargang</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-jaargang">    
+        <li>
+    <a class="dropdown-item" href="../2022/listday1.html">
+ <span class="dropdown-text">T2D 2022</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../2018/index18.html">
+ <span class="dropdown-text">T2D 2018</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Sessies dag 2</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../2022/listday1.html" class="sidebar-item-text sidebar-link">Sessies dag 1</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../2022/listday2.html" class="sidebar-item-text sidebar-link active">Sessies dag 2</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block">Sessies dag 2</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800129830" data-listing-reading-time-sort="0.78">
+<div class="thumbnail">
+<p><a href="../2022/dag2/De-menselijke-factor-in-cesuurbepalingen.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/De-menselijke-factor-in-cesuurbepalingen.html">
+<h3 class="no-anchor listing-title">
+De menselijke factor in cesuurbepalingen
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Het kiezen van een slaag-zakgrens (cesuur) heeft vaak directe – en soms verregaande – consequenties voor studenten. Een algemene cesuur, zoals bijvoorbeeld de regel “55%…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/De-menselijke-factor-in-cesuurbepalingen.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Wilco Emons , dr. Sebastiaan de Klerk
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671800185315" data-listing-reading-time-sort="0.675">
+<div class="thumbnail">
+<p><a href="../2022/dag2/De-slimme-toetscyclus-hoe-technologie-met-je-kan-meedenken.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/De-slimme-toetscyclus-hoe-technologie-met-je-kan-meedenken.html">
+<h3 class="no-anchor listing-title">
+De slimme toetscyclus hoe technologie met je kan meedenken
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Tijdens het ontwerpen, construeren, afnemen, nakijken en evalueren van een toets maak je als toetsexpert veel overwegingen om de kwaliteit van toetsing te borgen. Wat als we…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/De-slimme-toetscyclus-hoe-technologie-met-je-kan-meedenken.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Romy Noordhof, MSc., Eva de Schipper, MSC.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671800266361" data-listing-reading-time-sort="0.35">
+<div class="thumbnail">
+<p><a href="../2022/dag2/De-virtuele-toetswerkplek-Lessons-learned.html"> <img src="../2022/dag2/Toets2daagse_dag2_0092.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/De-virtuele-toetswerkplek-Lessons-learned.html">
+<h3 class="no-anchor listing-title">
+De virtuele toetswerkplek: Lessons learned
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In deze sessie wordt de verkenning naar een virtuele toetswerkplek besproken. William legt uit hoe instellingen samen met SURF naar een gezamenlijk uitgangspunt gewerkt…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/De-virtuele-toetswerkplek-Lessons-learned.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+drs. William van Santen
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671801035034" data-listing-reading-time-sort="0.77">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Technologieondersteund-toetsen-samenwerken-en-organiseren.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Technologieondersteund-toetsen-samenwerken-en-organiseren.html">
+<h3 class="no-anchor listing-title">
+Digitaal toetsten – Draait het alleen om het middel?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Hoger onderwijs presenteert regelmatig hun inrichting voor digitaal toetsen. Instellingen vertellen over hun BYOD inrichting of hebben zich toegelegd op digitale…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Technologieondersteund-toetsen-samenwerken-en-organiseren.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+ing. Ingmar Hallie, Tim Evers, MSc
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1670319300000" data-listing-file-modified-sort="1671800387268" data-listing-reading-time-sort="0.54">
+<div class="thumbnail">
+<p><a href="../2022/dag2/IguideME-verbeteren-van-zelfgestuurd-leren-en-academische-prestaties-met-gepersonaliseerde-peer-comparison-feedback.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/IguideME-verbeteren-van-zelfgestuurd-leren-en-academische-prestaties-met-gepersonaliseerde-peer-comparison-feedback.html">
+<h3 class="no-anchor listing-title">
+IguideME verbeteren van zelfgestuurd leren en academische prestaties met gepersonaliseerde peer-comparison feedback
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Via het recent ontwikkelde dashboard “IguideME” kan leerdata (van o.a. summatieve en formatieve toetsen) continu verzameld en gevisualiseerd worden. Met behulp van…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/IguideME-verbeteren-van-zelfgestuurd-leren-en-academische-prestaties-met-gepersonaliseerde-peer-comparison-feedback.html">
+<div class="listing-date">
+Dec 6, 2022
+</div>
+<div class="listing-author">
+dr. ing. Erwin van Vliet
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800412602" data-listing-reading-time-sort="0.385">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Inkopen-via-SURF-Krachtenbundeling-loont.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Inkopen-via-SURF-Krachtenbundeling-loont.html">
+<h3 class="no-anchor listing-title">
+Inkopen via SURF: Krachtenbundeling loont
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In deze sessie beschrijft Ellena de rol die SURF kan en wil spelen voor het gezamenlijk inkopen van producten via SURF. Zij geeft een overzicht van de verschillende…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Inkopen-via-SURF-Krachtenbundeling-loont.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Ellena Papageorgiou
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671800451592" data-listing-reading-time-sort="0.595">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Item-Response-Theory-for-Test-Design-What-can-we-learn-for-application-in-Higher-Education.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Item-Response-Theory-for-Test-Design-What-can-we-learn-for-application-in-Higher-Education.html">
+<h3 class="no-anchor listing-title">
+Item Response Theory for Test Design: What can we learn for application in Higher Education?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Item response theory (IRT) is a powerful psychometric paradigm that is used by many large-scale exams in the Western world. However, it remains underutilized in higher…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Item-Response-Theory-for-Test-Design-What-can-we-learn-for-application-in-Higher-Education.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Nathan Thompson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1670402700000" data-listing-file-modified-sort="1671800560051" data-listing-reading-time-sort="0.63">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Keynote-Programmatisch-toetsen-Hype-of-ei-van-Columbus.html"> <img src="../2022/dag2/Cor-Sluijter.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Keynote-Programmatisch-toetsen-Hype-of-ei-van-Columbus.html">
+<h3 class="no-anchor listing-title">
+Keynote: Programmatisch toetsen: Hype of ei van Columbus?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+De laatste jaren zien we in het hoger onderwijs opleidingen een switch maken van ‘klassieke’ manieren van toetsing naar het principe van programmatisch toetsen. Een reeks…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Keynote-Programmatisch-toetsen-Hype-of-ei-van-Columbus.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Cor Sluijter
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1670422500000" data-listing-file-modified-sort="1671801772056" data-listing-reading-time-sort="0.645">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Keynote-Regie-op-de-inzet-van-technologie.html"> <img src="../2022/dag2/Kelly-Beekman.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Keynote-Regie-op-de-inzet-van-technologie.html">
+<h3 class="no-anchor listing-title">
+Keynote: Regie op de inzet van technologie
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Kelly Beekman is lector Technology-enhanced Assessment (TEA) bij Fontys Lerarenopleidingen Tilburg (FLOT) en Academic Director van de Master Toetsdeskundige van Fontys. Haar…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Keynote-Regie-op-de-inzet-van-technologie.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Kelly Beekman
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800616463" data-listing-reading-time-sort="0.5">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Leren-van-automatische-feedback-en-learning-analytics.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Leren-van-automatische-feedback-en-learning-analytics.html">
+<h3 class="no-anchor listing-title">
+Leren van automatische feedback en learning analytics: Kansen en knelpunten
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Mede door technologische innovaties worden leeromgevingen – en de leerprocessen van studenten die daarin plaatsvinden – steeds rijker, gevarieerder en complexer. Uit…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Leren-van-automatische-feedback-en-learning-analytics.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Esther van der Stappen
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671801695492" data-listing-reading-time-sort="0.49">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Programmatisch-toetsen.html"> <img src="../2022/dag2/Tamara-van-Schilt-Mol.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Programmatisch-toetsen.html">
+<h3 class="no-anchor listing-title">
+Programmatisch toetsen: Aan de slag met de online leeromgeving
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In het leernetwerk programmatisch toetsen delen opleidingen hun ervaringen met het ontwerpen en implementeren van programmatisch toetsen. Samen ontwikkelen zij daarnaast…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Programmatisch-toetsen.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Tamara van Schilt-Mol
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800676693" data-listing-reading-time-sort="0.5">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Programmatisch-toetsen-Hoe-kun-je-dit-nu-praktisch-inrichten.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Programmatisch-toetsen-Hoe-kun-je-dit-nu-praktisch-inrichten.html">
+<h3 class="no-anchor listing-title">
+Programmatisch toetsen: Hoe kun je dit nu praktisch inrichten?
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Veel opleidingen hebben interesse in programmatisch toetsen. Holistisch beoordelen klinkt al snel interessant en je zou kunnen spreken van een echte hype. Tegelijkertijd…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Programmatisch-toetsen-Hoe-kun-je-dit-nu-praktisch-inrichten.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Wessel Peeters, MEd.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800894346" data-listing-reading-time-sort="0.465">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Realisatie-geautomatiseerd-proces-digitaal-toetsen.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Realisatie-geautomatiseerd-proces-digitaal-toetsen.html">
+<h3 class="no-anchor listing-title">
+Realisatie geautomatiseerd proces digitaal toetsen
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Bij de Radboud Universiteit wordt sinds 2017 op groeiende schaal digitaal getoetst. Vanaf het begin is de student centraal gesteld in het proces. Voor een goede…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Realisatie-geautomatiseerd-proces-digitaal-toetsen.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Jeroen Kassenberg, Evelien Westerbeek van Eerten
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671800957286" data-listing-reading-time-sort="0.525">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Samenversnellen-het-spel-geef-meer-vaart-aan-wendbaar-en-flexibel-Onderwijs.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Samenversnellen-het-spel-geef-meer-vaart-aan-wendbaar-en-flexibel-Onderwijs.html">
+<h3 class="no-anchor listing-title">
+Samenversnellen, het spel, geef meer vaart aan wendbaar en flexibel Onderwijs
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Samen Versnellen is een teamtrainingsspel dat is ontwikkeld in co-creatie met hogescholen en universiteiten.Het bevat realistische studentvragen uit de praktijk en heeft als…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Samenversnellen-het-spel-geef-meer-vaart-aan-wendbaar-en-flexibel-Onderwijs.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Marcel Penners
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671801002651" data-listing-reading-time-sort="0.545">
+<div class="thumbnail">
+<p><a href="../2022/dag2/ShareStats-Statistiekopgaven-open-delen-binnen-een-vakcommunity-van-docenten.html"> <img src="../2022/dag2/Toets2daagse_dag2_0039.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/ShareStats-Statistiekopgaven-open-delen-binnen-een-vakcommunity-van-docenten.html">
+<h3 class="no-anchor listing-title">
+ShareStats: Statistiekopgaven open delen binnen een vakcommunity van docenten
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Statistiek is een vak dat in veel opleidingen in het hoger onderwijs wordt aangeboden, en de stof is grotendeels hetzelfde. Toch wordt er nog weinig samengewerkt aan…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/ShareStats-Statistiekopgaven-open-delen-binnen-een-vakcommunity-van-docenten.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+dr. Marleen de Moor
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671799979127" data-listing-reading-time-sort="0.605">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Van-vooruitstrevend-onderwijsconcept-naar-keiharde-realiteit.html"> <img src="../2022/dag2/Toets2daagse_dag2_0117.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Van-vooruitstrevend-onderwijsconcept-naar-keiharde-realiteit.html">
+<h3 class="no-anchor listing-title">
+Van vooruitstrevend onderwijsconcept naar keiharde realiteit
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In 2019 startte de Ad Crossmediale Communicatie van Hogeschool Inholland enthousiast met programmatisch toetsen. De praktijk bleek weerbarstig. Coaches zagen hoe studenten…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Van-vooruitstrevend-onderwijsconcept-naar-keiharde-realiteit.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Michael Hendriks, MEd., Jacqueline den Bandt-Bloemzaad, MSc.
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-listing-date-sort="1670405700000" data-listing-file-modified-sort="1671801193646" data-listing-reading-time-sort="0.745">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Vind-de-meest-geschikte-toets-met-de-Keuzetool-toetsen.html"> <img src="../2022/dag2/Toets2daagse_dag1_0126.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Vind-de-meest-geschikte-toets-met-de-Keuzetool-toetsen.html">
+<h3 class="no-anchor listing-title">
+Vind de meest geschikte toets met de Keuzetool toetsen
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+Doordat in 2020 toetsen opeens massaal op afstand moesten plaatsvinden, ontstond een grote vraag naar alternatieven voor de reguliere toets. Uit een enquête onder docenten…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Vind-de-meest-geschikte-toets-met-de-Keuzetool-toetsen.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+Edwin Buijs, MSc, drs. Sharon Klinkenberg
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671801352219" data-listing-reading-time-sort="0.42">
+<div class="thumbnail">
+<p><a href="../2022/dag2/Why-assessment-drives-learning.html"> <img src="../2022/dag2/Toets2daagse_dag2_0074.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/Why-assessment-drives-learning.html">
+<h3 class="no-anchor listing-title">
+Why assessment drives learning
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+In deze sessie zal Sharon in gaan op het belang van toetsing als diagnostisch instrument. Waar feedback een cruciale rol speelt in het leerproces, is toetsing de bron waarop…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/Why-assessment-drives-learning.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+drs. Sharon Klinkenberg
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-listing-date-sort="1670416500000" data-listing-file-modified-sort="1671800438001" data-listing-reading-time-sort="0.55">
+<div class="thumbnail">
+<p><a href="../2022/dag2/iRAT-tRAT-De-activerende-samenwerkende-rol-van-toetsen-in-Team-based-Learning.html"> <img src="../2022/dag2/Toets2daagse_dag2_0086.jpg" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../2022/dag2/iRAT-tRAT-De-activerende-samenwerkende-rol-van-toetsen-in-Team-based-Learning.html">
+<h3 class="no-anchor listing-title">
+iRAT/tRAT: De activerende samenwerkende rol van toetsen in Team-based Learning
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+De iRAT/tRAT toetsen zijn twee van de vijf vaste onderdelen van Team Based learning (TBL): een activerende werkvorm waarin studenten actief samenwerkend leren. In deze…
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../2022/dag2/iRAT-tRAT-De-activerende-samenwerkende-rol-van-toetsen-in-Team-based-Learning.html">
+<div class="listing-date">
+Dec 7, 2022
+</div>
+<div class="listing-author">
+drs. Jacqueline Vos, Sylvia van der Marel, drs. Hans Slabbekoorn
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../2022/listday1.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Sessies dag 1</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

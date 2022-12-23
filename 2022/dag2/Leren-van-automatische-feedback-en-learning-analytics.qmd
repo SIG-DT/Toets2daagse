@@ -3,14 +3,14 @@ title: "Leren van automatische feedback en learning analytics: Kansen en knelpun
 author:
   - "dr. Esther van der Stappen"
 institute: "Lector Digitale Didactiek aan Avans Hogeschool"
-image: Toets2daagse_dag1_0205.jpg
+image: Toets2daagse_dag2_0086.jpg
 date: "2022-12-07 10:35:00"
 tags: 
   - "Technologieondersteund toetsen - automatiseren en benutten"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch]()
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_0086.jpg)
 :::
 
 Mede door technologische innovaties worden leeromgevingen – en de leerprocessen van studenten die daarin plaatsvinden – steeds rijker, gevarieerder en complexer. Uit allerlei digitale systemen ontvangen studenten data- gedreven vormen van feedback, zoals automatisch gegenereerde feedback of learning analytics. Met deze input zouden studenten hun leerproces beter moeten kunnen reguleren (plannen, monitoren en bijstellen).

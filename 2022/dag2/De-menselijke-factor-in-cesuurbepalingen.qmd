@@ -1,0 +1,25 @@
+---
+title: "De menselijke factor in cesuurbepalingen"
+author:
+  - "dr. Wilco Emons "
+  - "dr. Sebastiaan de Klerk"
+institute: 
+  -"Universitair docent aan Tilburg University"
+  -"Senior wetenschappelijk onderzoeker bij Stichting Cito"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Toetsen in het hoger onderwijs"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Het kiezen van een slaag-zakgrens (cesuur) heeft vaak directe – en soms verregaande – consequenties voor studenten. Een algemene cesuur, zoals bijvoorbeeld de regel “55% goed of meer is geslaagd”, is eenvoudig toepasbaar en transparant, maar levert lang niet altijd een bevredigend resultaat op. Daar tegenover staan allerlei geavanceerde standaardbepalingsmethoden die heel specifiek kijken naar de toets(items) en/of de resultaten.
+  Ondanks deze rijkheid aan methodes blijkt uit peilingen onder docenten dat men juist het vaststellen van een eerlijke slaag-zakgrens erg lastig vindt. De vraag is dan: wat maakt het zo lastig? Is het de complexiteit van de procedures of spelen andere factoren een rol?
+
+In deze workshop lichten Wilco en Sebastiaan een specifiek – en wellicht onderbelicht – aspect van cesuurbepaling uit, namelijk de menselijke factor. Het bepalen van de cesuur raakt rechtstreeks aan het rechtvaardigheidsgevoel. De vraag is hoe we daar zo goed mogelijk grip op kunnen krijgen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8c1a2003-e40e-477d-998a-af3800f0dcf5){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1brtm8fDIvren8ekzgF8JDX8YddCuXEMj/view?usp=share_link){.btn .btn-primary}

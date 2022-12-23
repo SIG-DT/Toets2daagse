@@ -1,0 +1,20 @@
+---
+title: "Keynote: Programmatisch toetsen: Hype of ei van Columbus?"
+author:
+  - "dr. Cor Sluijter"
+institute: "Toetsdeskundige en docent aan de Master Toetsdeskundige Fontys"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 09:45:00"
+tags: 
+  - "Opening"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+De laatste jaren zien we in het hoger onderwijs opleidingen een switch maken van ‘klassieke’ manieren van toetsing naar het principe van programmatisch toetsen. Een reeks problemen die met die klassieke toetsing samenhangen lijkt bij toepassing van dit relatief nieuwe principe tot het verleden te behoren. Maar introduceert werken met dit concept geen andere problemen? Gooien we het kind met het badwater weg en is sprake van symptoombestrijding in plaats van een structurele oplossing? En zijn er wel zulke grote principiële verschillen? In deze presentatie wordt een poging gedaan een onderbouwd antwoord op deze vragen te geven door te onderzoeken in hoeverre er bij toepassing van de principes van programmatisch toetsen te voldoen valt aan verschillende kwaliteitseisen voor assessmentvormen.
+
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=461fd849-bf16-4c27-b7a2-af3800efcdfc){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1crWFikcVZ3vUchKuIUij61__qYtoWjgn/view?usp=share_link){.btn .btn-primary}

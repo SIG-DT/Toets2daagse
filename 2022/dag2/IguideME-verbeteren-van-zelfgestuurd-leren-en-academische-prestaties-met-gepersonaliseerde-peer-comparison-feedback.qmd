@@ -1,0 +1,21 @@
+---
+title: "IguideME verbeteren van zelfgestuurd leren en academische prestaties met gepersonaliseerde peer-comparison feedback"
+author:
+  - "dr. ing. Erwin van Vliet"
+institute: "Universitair docent en opleidingsdirecteur aan Universiteit van Amsterdam"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-06 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen - automatiseren en benutten"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Via het recent ontwikkelde dashboard “IguideME” kan leerdata (van o.a. summatieve en formatieve toetsen) continu verzameld en gevisualiseerd worden. Met behulp van kunstmatige intelligentie kan gepersonaliseerde peer-comparison feedback aan studenten worden gegeven, zelfs in grootschalige cursussen. Docenten kunnen het dashboard gebruiken als “early warning system” om uitval te voorkomen, maar ook om hun cursusontwerp te analyseren en direct aan te passen.
+
+In deze sessie demonstreert Erwin hoe IguideME werkt en hoe het in de praktijk kan worden toegepast. Verder presenteert hij onderzoeksgegevens waaruit blijkt dat studenten en docenten IguideME waarderen en dat het studentenbetrokkenheid, zelfgestuurd leren, peer learning, motivatie en prestaties verbetert.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7a80a00e-5e93-419f-91b0-af6a011d01d0){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1Uj-T1owYO1U5jLf49rm02U9BIhrbbcjU/view?usp=share_link){.btn .btn-primary}

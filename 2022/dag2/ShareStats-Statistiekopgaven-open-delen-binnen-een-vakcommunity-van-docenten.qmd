@@ -1,5 +1,5 @@
 ---
-title: " ShareStats: Statistiekopgaven open delen binnen een vakcommunity van docenten"
+title: "ShareStats: Statistiekopgaven open delen binnen een vakcommunity van docenten"
 author:
   - "dr. Marleen de Moor"
 institute: "Universitair hoofddocent aan Erasmus Universiteit Rotterdam"

@@ -1,0 +1,21 @@
+---
+title: "Van vooruitstrevend onderwijsconcept naar keiharde realiteit"
+author:
+  - "Michael Hendriks, MEd."
+  - "Jacqueline den Bandt-Bloemzaad, MSc."
+institute: 
+  - "Beleidsadviseur onderwijsinnovatie aan Hogeschool Inholland"
+  - "Onderwijskundig beleidsadviseur aan Hogeschool Inholland"
+date: "2022-12-07 13:35:00"
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+In 2019 startte de Ad Crossmediale Communicatie van Hogeschool Inholland enthousiast met programmatisch toetsen. De praktijk bleek weerbarstig. Coaches zagen hoe studenten zich ontwikkelden, maar de vertaalslag naar datapunten in het digitaal portfolio Mahara kwam moeizaam op gang, met een hoge werkdruk voor student en coach tot gevolg. Er ontstond weerstand, maar bij Inholland geloofden ze in het onderwijsconcept. De zoektocht naar onderwijs dat studeerbaar en werkbaar is begon, waarbij ze trouw wilden blijven aan het onderwijsconcept. Michael en Jacqueline vertellen welke iteraties er hebben plaatsgevonden op basis van zowel coach- als student feedback. Ze delen ervaringen met Mahara als digitaal portfolio en de Smart Evidence-matrix om de ontwikkeling van studenten vast te leggen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ecf777f2-5751-4c08-8b6c-af6a010ec842){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1KCif_cxv0mIV9aoEbOLLpqnb2yXs_cpo/view?usp=share_link){.btn .btn-primary}

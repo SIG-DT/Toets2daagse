@@ -1,0 +1,21 @@
+---
+title: "Digitaal toetsten – Draait het alleen om het middel?"
+author:
+  - "ing. Ingmar Hallie"
+  - "Tim Evers, MSc"
+institute:
+  - "Projectleider digitaal toetsen aan Tilburg University"
+  - "Manager tentaminering aan Tilburg University"
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen – samenwerken en organiseren"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+Hoger onderwijs presenteert regelmatig hun inrichting voor digitaal toetsen. Instellingen vertellen over hun BYOD inrichting of hebben zich toegelegd op digitale toetsplekken van de instelling zelf. Daarnaast geven diverse infra- en toetsapplicaties vorm aan het digitale toetslandschap. Denk aan Schoolyear, Ans, TestVision, RemindoToets, STEP, en de Axians tentamenwerkplek. Tijdens die presentaties ligt de nadruk op de keuzes van middelen. Maar op basis waarvan worden die keuzes gemaakt? In welke mate zijn we daarbij technologie gedreven (push) en/of strategie gedreven (pull)?
+
+Tijdens deze interactieve workshop wordt in kaart gebracht welke oplossingen waar worden gebruikt. Ze bespreken welke drijfveren achter die keuzes liggen en kijken naar afhankelijkheden als het hebben van een visie, het inrichten van ondersteuning en het adoptievermogen. Aan het einde van de workshop heb je een beeld van wat andere instellingen doen maar belangrijker: wat er binnen je eigen instelling moet gebeuren om de juiste keuzes te kunnen maken.
+
+

@@ -40,7 +40,7 @@ KEYNOTES:
 
 ::: {.card-text}
 
-* [Programmatisch toetsen: hype of logische ontwikkeling?](#){.link-light}
+* [Programmatisch toetsen: hype of logische ontwikkeling?](2022/dag1/Keynote-Programmatisch-toetsen.qmd){.link-light}
 
 :::
 
@@ -64,7 +64,7 @@ KEYNOTES:
 
 ::: {.card-text}
 
-* [Programmatisch toetsen: hype of ei van Columbus?](#){.link-light}
+* [Programmatisch toetsen: hype of ei van Columbus?](2022/dag2/Keynote-Programmatisch-toetsen-Hype-of-ei-van-Columbus.qmd){.link-light}
 
 
 :::
@@ -89,7 +89,7 @@ KEYNOTES:
 
 ::: {.card-text}
 
-* [Regie op de inzet van technologie!](#){.link-light}
+* [Regie op de inzet van technologie!](2022/dag2/Keynote-Regie-op-de-inzet-van-technologie.qmd){.link-light}
 
 :::
 

@@ -14,7 +14,7 @@ website:
         menu:
           - sidebar:t2d2022
           - sidebar:t2d2018
-      - about.qmd
+      # - about.qmd
       
   sidebar:
     - id: t2d2022

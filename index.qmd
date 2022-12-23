@@ -165,7 +165,14 @@ Het overzicht van alle sessies van dag 1 is hier te vinden.
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+De organisatie van de Toets2daagse is uitgevoerd door het programmateam:
+
+* [Vincent Kalis](https://www.linkedin.com/in/vincentkalis?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAnLJI4BzEE8paIPY6cZU0uESfp-uvJEoac&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
+* [Silvester Draaijer](https://www.linkedin.com/in/ACoAAAATgacBx9MluKs48BO1aRxqREWXJBXfTYw?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
+* [Derk Riesthuis](https://www.linkedin.com/in/ACoAAABSn_8BxYw6k-kXgU1-sfi0THUSugEkhZU?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
+* [Annette Peet](https://www.linkedin.com/in/ACoAAAAPegsBJUMK0skB426zzFHlJdbYwZT9uXg?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
+* [Eky Fioole](https://www.linkedin.com/in/ACoAAABXsOUB6H5YcYwZI_lKwa2S4CL1Eoy61ws?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
+* [Michel Kao](https://www.linkedin.com/in/ACoAACD2DxEB48GVR0bSs3zHmNz9t5HQ2LTnz3o?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BBfesv%2BtYRmSCvCC075Nygg%3D%3D){.link-light}
 
 :::
 
@@ -183,11 +190,11 @@ Het overzicht van alle sessies van dag 1 is hier te vinden.
 
 ::: {.card-body}
 
-## SIG {.card-title}
+## SIG DT {.card-title}
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+De Toets2daagse is een initiatief van de [special interest group digitaal toetsen](https://communities.surf.nl/digitaal-toetsen){.link-light} (SIG DT). Je kan je aansluiten bij de SIG DT via de [LinkedIn groep](https://www.linkedin.com/groups/5103467?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BvITSuFoHQwy3nUUJ%2B%2FCwZg%3D%3D&lici=eps4WAUEc%2BauMFvaZR7HSA%3D%3D){.link-light}.
 
 :::
 
@@ -205,11 +212,11 @@ Het overzicht van alle sessies van dag 1 is hier te vinden.
 
 ::: {.card-body}
 
-## Iets {.card-title}
+## Versnellingsplan {.card-title}
 
 ::: {.card-text}
 
-* [Inleiding](#){.link-light}
+De Toets2daagse is mede mogelijk gemaakt door het [versnellingplan onderwijsinnovatio met ICT](https://www.versnellingsplan.nl){.link-light}. De [werkgroep toetsen (op afstand)](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/){.link-light} heeft bijgedragen aan de organisatie, invulling en financiering van de Toets2daagse.
 
 :::
 

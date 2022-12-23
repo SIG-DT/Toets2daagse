@@ -10,7 +10,7 @@ tags:
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)-->
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)
 :::
 
 Innovative mixed reality (MR) technologies have the potential to transform the delivery of medical education and may confer some advantages over traditional teaching methods by merging real and virtual worlds. The technology has the potential to help tackle many challenges currently faced in the delivery of high-quality medical education globally including quality, consistency, accessibility, and cost. The technology has also been successfully integrated into medical schools’ curricula, principally to support the delivery of anatomy teaching through a range of commercial and bespoke applications. The HL2 device may facilitate remote assessment of clinical and procedural skills. This approach may not only reduce cost and improve access to qualified assessors but may also facilitate assessments

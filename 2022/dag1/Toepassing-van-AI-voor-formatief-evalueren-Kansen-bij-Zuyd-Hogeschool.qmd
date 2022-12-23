@@ -15,7 +15,7 @@ tags:
 ---
 
 ::: {.column-margin}
-<--![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)-->
+![Foto: Maurice van den Bosch](Toets2daagse_dag1_0022.jpg)
 :::
 
 In deze sessie zal toegelicht worden welke kansen er zoal liggen voor AI binnen het domein van formatief evalueren. Ellen, Joost en Marcel concretiseren deze kansen door het beschrijven van reeds bestaande en mogelijke toepassingen binnen verschillende academies van Zuyd Hogeschool.

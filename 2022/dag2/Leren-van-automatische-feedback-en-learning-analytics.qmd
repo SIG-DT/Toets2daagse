@@ -1,0 +1,21 @@
+---
+title: "Leren van automatische feedback en learning analytics: Kansen en knelpunten"
+author:
+  - "dr. Esther van der Stappen"
+institute: "Lector Digitale Didactiek aan Avans Hogeschool"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen - automatiseren en benutten"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Mede door technologische innovaties worden leeromgevingen – en de leerprocessen van studenten die daarin plaatsvinden – steeds rijker, gevarieerder en complexer. Uit allerlei digitale systemen ontvangen studenten data- gedreven vormen van feedback, zoals automatisch gegenereerde feedback of learning analytics. Met deze input zouden studenten hun leerproces beter moeten kunnen reguleren (plannen, monitoren en bijstellen).
+
+In deze sessie worden de kansen van data-gedreven feedback besproken en met welke knelpunten er rekening moet worden gehouden, met als doel inzicht te krijgen in de randvoorwaarden voor het daadwerkelijk ondersteunen van studenten in hun leerproces met technologische oplossingen.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b75f5a72-ada1-4bfb-9893-af3800f163e8){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1KZ5PD7KdN5HAYPuwJsWO1FvPzjm83CVR/view?usp=share_link){.btn .btn-primary}

@@ -1,0 +1,22 @@
+---
+title: "Keynote: Regie op de inzet van technologie"
+author:
+  - "dr. Kelly Beekman"
+institute: 
+  - "Lector Technology-enhanced Assessment aan Fontys lerarenopleiding Tilburg en opleidingsdirecteur van de Master Toetdeskundige aan Fontys Hogescholen"
+date: "2022-12-07 15:15:00"
+tags: 
+  - "Afsluiting"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch](Toets2daagse_dag2_afsluiting.jpg)
+:::
+
+Kelly Beekman is lector Technology-enhanced Assessment (TEA) bij Fontys Lerarenopleidingen Tilburg (FLOT) en Academic Director van de Master Toetsdeskundige van Fontys. Haar gehele professionele loopbaan heeft zich in het onderwijs afgespeeld, waarbij zij zowel in het basisonderwijs, voortgezet onderwijs als hoger onderwijs ervaring opgedaan heeft in onderwijs, onderzoek en advisering rondom vraagstukken gericht op het vergroten van de kwaliteit van toetsen en beoordelen.
+
+Ze houdt zich bezig met onderzoeksthema’s als (kwaliteit van) toetsen en beoordelen, technologie ondersteund leren en toetsen (VR, leren in digitale leeromgevingen, e-portfolio), formatief evalueren en de ontwikkeling van zelfregulatievaardigheden. Het vertalen van kennis naar concrete handreikingen en tools, en praktische adviezen is een belangrijke meerwaarde voor haar werkzaamheden. In samenwerking met de praktijk kunnen bijdragen aan onderzoek en praktijk.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=83135189-c3cf-4f9d-bdab-af3800f35646){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1eJTsafysAIP2htfz26fPVTaWskNLyEgN/view?usp=share_link){.btn .btn-primary}
+

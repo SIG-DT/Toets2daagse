@@ -1,0 +1,20 @@
+---
+title: "Programmatisch toetsen: Aan de slag met de online leeromgeving"
+author:
+  - "dr. Tamara van Schilt-Mol "
+institute: "Lector Eigentijds Beoordelen en Beslissen aan Hogeschool van Arnhem en Nijmegen"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Programmatisch toetsen, incl. technologische ondersteuning"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+In het leernetwerk programmatisch toetsen delen opleidingen hun ervaringen met het ontwerpen en implementeren van programmatisch toetsen. Samen ontwikkelen zij daarnaast praktische handvatten en tools, die breed inzetbaar zijn voor alle opleidingen. Deze handvatten zijn nu toegankelijk in de online leeromgeving programmatisch toetsen. Deze online omgeving bevat daarnaast een theoretische verdieping op de principes van programmatisch toetsen en veel praktijkvoorbeelden.
+Tijdens de workshop neemt Tamara je mee in de totstandkoming van de online omgeving, maak je kennis met deze omgeving en ga je aan de slag met enkele handvatten uit de omgeving.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=39831464-3f75-45ae-9244-af3800f06967){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1Z-9-YiYOSffFdqaVEr-RZHQbi8tlhOHK/view?usp=share_link){.btn .btn-primary}

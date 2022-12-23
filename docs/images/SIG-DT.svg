@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.04 57.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #efb253;
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <g id="Surf">
+    <rect class="cls-1" x=".5" y="43.08" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="14.67" y="43.08" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="57.19" y="43.08" width="14.17" height="14.17"/>
+    <rect class="cls-1" x=".5" y="28.91" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="28.85" y="28.91" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="57.19" y="28.91" width="14.17" height="14.17"/>
+    <rect class="cls-1" x=".5" y="14.74" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="28.85" y="14.74" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="57.19" y="14.74" width="14.17" height="14.17"/>
+    <rect class="cls-1" x=".5" y=".56" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="14.67" y=".56" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="43.02" y=".56" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="57.19" y=".56" width="14.17" height="14.17"/>
+    <rect class="cls-1" x="71.37" y=".56" width="14.17" height="14.17"/>
+  </g>
+  <g id="SIG">
+    <text class="cls-2" transform="translate(47.15 11.28)"><tspan x="0" y="0">S</tspan></text>
+    <text class="cls-2" transform="translate(62.85 11.28)"><tspan x="0" y="0">I</tspan></text>
+    <text class="cls-2" transform="translate(74.58 11.28)"><tspan x="0" y="0">G</tspan></text>
+  </g>
+</svg>

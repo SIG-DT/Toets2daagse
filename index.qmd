@@ -196,6 +196,8 @@ De organisatie van de Toets2daagse is uitgevoerd door het programmateam:
 
 De Toets2daagse is een initiatief van de [special interest group digitaal toetsen](https://communities.surf.nl/digitaal-toetsen){.link-light} (SIG DT). Je kan je aansluiten bij de SIG DT via de [LinkedIn groep](https://www.linkedin.com/groups/5103467?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3BvITSuFoHQwy3nUUJ%2B%2FCwZg%3D%3D&lici=eps4WAUEc%2BauMFvaZR7HSA%3D%3D){.link-light}.
 
+![](images/SIG-DT.png)
+
 :::
 
 :::
@@ -217,6 +219,8 @@ De Toets2daagse is een initiatief van de [special interest group digitaal toetse
 ::: {.card-text}
 
 De Toets2daagse is mede mogelijk gemaakt door het [versnellingplan onderwijsinnovatio met ICT](https://www.versnellingsplan.nl){.link-light}. De [werkgroep toetsen (op afstand)](https://www.versnellingsplan.nl/werkgroep-toetsen-op-afstand/){.link-light} heeft bijgedragen aan de organisatie, invulling en financiering van de Toets2daagse.
+
+![](images/Versnellingsplan.svg)
 
 :::
 

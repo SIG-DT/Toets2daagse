@@ -1,0 +1,24 @@
+---
+title: "iRAT/tRAT: De activerende samenwerkende rol van toetsen in Team-based Learning "
+author:
+  - "drs. Jacqueline Vos"
+  - "Sylvia van der Marel"
+  - "drs. Hans Slabbekoorn"
+institute: 
+  -"Senior onderwijskundig adviseur aan Amsterdam UMC"
+  -"Toetsadviseur bij Amsterdam UMC"
+  -"Adviseur ICT en Onderwijs aan Amsterdam UMC"
+image: Toets2daagse_dag1_0205.jpg
+date: "2022-12-07 13:35:00"
+tags: 
+  - "Toetsen in het hoger onderwijs"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+De iRAT/tRAT toetsen zijn twee van de vijf vaste onderdelen van Team Based learning (TBL): een activerende werkvorm waarin studenten actief samenwerkend leren. In deze sessie vertellen Jacqueline, Linda en Hans over de opzet en de logistieke organisatie van de iRAT (Individual Readiness Assurance Test) en de tRAT (Team Readiness Assurance Test) binnen de bachelor Geneeskunde van de UvA, en hoe de iRAT/tRAT bijdraagt aan het samenwerkend leren. Je neemt tijdens deze sessie zelf deel aan een korte iRAT/tRAT toets. Verder delen zij ervaringen van docenten en studenten, en tevens de belangrijkste resultaten en conclusies van een onderzoeksrapport naar de effectiviteit van TBL-onderwijs.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=a5d281b8-3e49-4854-b994-af6a01080899){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1atAQ1TE8Ki-en36R5DwiUGKpucz6AslL/view?usp=share_link){.btn .btn-primary}

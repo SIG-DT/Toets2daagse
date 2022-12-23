@@ -1,0 +1,18 @@
+---
+title: " ShareStats: Statistiekopgaven open delen binnen een vakcommunity van docenten"
+author:
+  - "dr. Marleen de Moor"
+institute: "Universitair hoofddocent aan Erasmus Universiteit Rotterdam"
+date: "2022-12-07 10:35:00"
+tags: 
+  - "Technologieondersteund toetsen – samenwerken en organiseren"
+---
+
+::: {.column-margin}
+![Foto: Maurice van den Bosch]()
+:::
+
+Statistiek is een vak dat in veel opleidingen in het hoger onderwijs wordt aangeboden, en de stof is grotendeels hetzelfde. Toch wordt er nog weinig samengewerkt aan onderwijsmaterialen, zeker over opleidingen en instellingen heen. Maar waarom het wiel opnieuw uitvinden als dit al gedaan is? ShareStats is een initiatief van vier universiteiten, en heeft tot doel een open itembank van statistiekopgaven te ontwikkelen, en te delen in een brede vakcommunity van statistiekdocenten. In deze sessie geeft Marleen een overzicht van het ShareStats project: hoe de itembank is ontwikkeld, hoe een vakcommunity van statistiekdocenten is opgebouwd, en hoe docenten met de itembank werken.
+
+[Video](https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9e55de93-4a3a-47c4-8511-af3800f2b965){.btn .btn-primary}
+[Slides](https://drive.google.com/file/d/1X5PaoVIfFdPus8PWr3dXGbHMsqvGJe8x/view?usp=share_link){.btn .btn-primary}

@@ -10,7 +10,7 @@ tags:
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch](Lambert-Schuwirth.jpg)
+![](Lambert-Schuwirth.jpg)
 :::
 
 Programmatisch toetsen is erg populair aan het worden. Dan leidt altijd de vraag of het werkelijk een noodzakelijke ontwikkeling en verbetering betreft of slechts een mode-fenomeen dat weer net zo snel zal verdwijnen. Of programmatisch toetsen werkelijk HET antwoord is op de vele problemen in gezondheidszorgonderwijs en daarbuiten moet nog blijken. Het is zeker niet een dogmatische methode of een panacee, maar meer een set principes voor de ontwikkeling van toetsprogramma’s.

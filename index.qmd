@@ -81,7 +81,7 @@ KEYNOTES:
 
 ::: {.card  .text-white .bg-primary .rounded-3 .mx-auto}
 
-![](2022/dag2/Kelly-Beekman.jpg){.card-img-top}
+![](2022/dag2/Kelly-Beekman-2.jpg){.card-img-top}
 
 ::: {.card-body}
 

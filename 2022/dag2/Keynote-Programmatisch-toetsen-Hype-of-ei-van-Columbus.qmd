@@ -10,7 +10,7 @@ tags:
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch](Cor-Sluijter.jpg)
+![](Cor-Sluijter.jpg)
 :::
 
 De laatste jaren zien we in het hoger onderwijs opleidingen een switch maken van ‘klassieke’ manieren van toetsing naar het principe van programmatisch toetsen. Een reeks problemen die met die klassieke toetsing samenhangen lijkt bij toepassing van dit relatief nieuwe principe tot het verleden te behoren. Maar introduceert werken met dit concept geen andere problemen? Gooien we het kind met het badwater weg en is sprake van symptoombestrijding in plaats van een structurele oplossing? En zijn er wel zulke grote principiële verschillen? In deze presentatie wordt een poging gedaan een onderbouwd antwoord op deze vragen te geven door te onderzoeken in hoeverre er bij toepassing van de principes van programmatisch toetsen te voldoen valt aan verschillende kwaliteitseisen voor assessmentvormen.

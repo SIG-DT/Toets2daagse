@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.280">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -83,9 +83,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-jaargang" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Jaargang</span>
-    </a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-jaargang" role="button" data-bs-toggle="dropdown" aria-expanded="false">Jaargang</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-jaargang">    
         <li>
     <a class="dropdown-item" href="../../2022/listday1.html">
@@ -119,30 +117,22 @@ ul.task-list li input[type="checkbox"] {
 </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
-  
-    <div class="quarto-title-meta-contents">
-    prof. dr. Lambert Schuwirth 
-  </div>
-    <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Hoogleraar Medisch Onderwijs aan Flinders University in Australië, Chang Gung University in Taiwan en Uniformed Services University for the Health Sciences Bethesda in de Verenigde Staten
-          </p>
-      </div>
-    </div>
 
 <div class="quarto-title-meta">
 
-      
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>prof. dr. Lambert Schuwirth </p>
+          </div>
+  </div>
+    
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
       <p class="date">December 6, 2022</p>
     </div>
   </div>
-  
     
   </div>
   
@@ -151,12 +141,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="no-row-height column-margin column-container"><div class="">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="Lambert-Schuwirth.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption class="figure-caption">Foto: Maurice van den Bosch</figcaption><p></p>
-</figure>
-</div>
+<p><img src="Lambert-Schuwirth.jpg" class="img-fluid"></p>
 </div></div><p>Programmatisch toetsen is erg populair aan het worden. Dan leidt altijd de vraag of het werkelijk een noodzakelijke ontwikkeling en verbetering betreft of slechts een mode-fenomeen dat weer net zo snel zal verdwijnen. Of programmatisch toetsen werkelijk HET antwoord is op de vele problemen in gezondheidszorgonderwijs en daarbuiten moet nog blijken. Het is zeker niet een dogmatische methode of een panacee, maar meer een set principes voor de ontwikkeling van toetsprogramma’s.</p>
 <p>Die principes zijn een poging om toetsing betekenisvoller te maken voor het geven van feedback en sterkere onderbouwing te geven voor ‘high-stakes’ beslissingen. Programmatisch toetsing is dus niet hetzelfde als toetsen voor leren, maar die twee concepten hebben wel dwarsverbanden. Ik wil graag bespreken hoe programmatisch toetsen probeert enkele belangrijke problemen van meer traditionele toetsing te omzeilen en hoe het beter aansluit bij de huidige opvattingen over medische competentie en medisch onderwijs. Hoewel professor Schuwirth spreekt over de ontwikkelingen binnen medisch onderwijs zijn er volgens hem wellicht ook principes die ook gelden voor andere onderwijsdomeinen.</p>
 <p><a href="https://tilburguniversity.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=7ba2cea2-1757-4417-bf69-af3800ebe5c3" class="btn btn-primary">Video</a> <a href="https://drive.google.com/file/d/1WsIOmwGNkXuZMQv725xHEFU0rJ4F_hrd/view?usp=share_link" class="btn btn-primary">Slides</a></p>
@@ -205,24 +190,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
     setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -258,42 +226,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
       });
-    }
+      return popup.innerHTML;
+    });
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -301,7 +251,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
-    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {

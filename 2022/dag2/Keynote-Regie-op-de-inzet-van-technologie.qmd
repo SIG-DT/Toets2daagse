@@ -4,14 +4,14 @@ author:
   - "dr. Kelly Beekman"
 institute: 
   - "Lector Technology-enhanced Assessment aan Fontys lerarenopleiding Tilburg en opleidingsdirecteur van de Master Toetdeskundige aan Fontys Hogescholen"
-image: Kelly-Beekman.jpg
+image: Kelly-Beekman-2.jpg
 date: "2022-12-07 15:15:00"
 tags: 
   - "Afsluiting"
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch](Kelly-Beekman.jpg)
+![](Kelly-Beekman-2.jpg)
 :::
 
 Kelly Beekman is lector Technology-enhanced Assessment (TEA) bij Fontys Lerarenopleidingen Tilburg (FLOT) en Academic Director van de Master Toetsdeskundige van Fontys. Haar gehele professionele loopbaan heeft zich in het onderwijs afgespeeld, waarbij zij zowel in het basisonderwijs, voortgezet onderwijs als hoger onderwijs ervaring opgedaan heeft in onderwijs, onderzoek en advisering rondom vraagstukken gericht op het vergroten van de kwaliteit van toetsen en beoordelen.

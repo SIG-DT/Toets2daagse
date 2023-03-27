@@ -3,8 +3,8 @@ title: "Een eerlijke cesuurscore vanuit psychometrisch perspectief met behulp va
 author:
   - "dr. Monika Vaheoja"
 institute: "Psychometricus bij 10voordeleraar en mometRie"
-image: Toets2daagse_dag1_0010.jpg
 date: "2022-12-06 13:35:00"
+image: Toets2daagse_dag1_0022.jpg
 tags: 
   - "Toetsen in het hoger onderwijs"
 ---

@@ -10,7 +10,7 @@ tags:
 ---
 
 ::: {.column-margin}
-![Foto: Maurice van den Bosch](Tamara-van-Schilt-Mol.jpg)
+![](Tamara-van-Schilt-Mol.jpg)
 :::
 
 In het leernetwerk programmatisch toetsen delen opleidingen hun ervaringen met het ontwerpen en implementeren van programmatisch toetsen. Samen ontwikkelen zij daarnaast praktische handvatten en tools, die breed inzetbaar zijn voor alle opleidingen. Deze handvatten zijn nu toegankelijk in de online leeromgeving programmatisch toetsen. Deze online omgeving bevat daarnaast een theoretische verdieping op de principes van programmatisch toetsen en veel praktijkvoorbeelden.
